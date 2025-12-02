@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,Name,Region,State,City,Product,Quantity,Price,PostalCode,Date
+1,1745,  Neha*** ,West,Maharashtra    , Mumbai,Headphones,,189.46,870551!!!,2022-04-03
+2,1352,  Ravi! ,North,Karnataka   , Chennai   ,Laptop,10,,821710,2024-11-16
+3,1129,  David ,South,Telangana  , Pune   ,Bag,,,360074!!!,2021-11-03
+4,1467,  Sara    ,South,Karnataka    , Kochi,Watch,7,1080.87,338600--,2023-11-10
+5,1666,  Neha ,West,Maharashtra    , Pune   ,Bag,6,,123350,2019-07-16
+6,1285,  Ravi! ,North,Kerala    , Bangalore,Bag,,,731396!!!,2018-11-02
+7,1002,  Priya.. ,West,Gujarat   , Kochi   ,Mobile,10,1872.36,(402336),2019-05-13
+8,1882,  Priya! ,South,Maharashtra  , Hyderabad  ,Headphones,8,,069913,2022-01-10
+9,1705,  Priya    ,East,Kerala  , Kochi   ,Mobile,,,(351495),2022-10-12
+10,1863,  John*** ,North,Telangana    , Bangalore  ,Shoes,,,(092947),2022-11-21
+11,1277,  Amit! ,East,Telangana  , Pune   ,Headphones,3,,100503,2019-09-07
+12,1096,  John ,South,Kerala  , Kochi,Shoes,4,1630.68,392471!!!,2021-06-08
+13,1583,  Neha*** ,East,Karnataka   , Kochi  ,Mobile,,,075024--,2020-08-05
+14,1513,  David*** ,East,Gujarat   , Kochi   ,Watch,,,(642578),2020-11-22
+15,1339,  Meena    ,North,Telangana  , Pune,Headphones,,,(406158),2020-10-05
+16,1147,  John! ,East,Gujarat    , Pune  ,Headphones,,435.17,(994476),2021-08-28
+17,1504,  Karan.. ,East,Telangana   , Mumbai  ,Mobile,3,,620305,2024-06-10
+18,1065,  Sara! ,East,Kerala    , Bangalore  ,Headphones,,149.96,067276!!!,2022-04-20
+19,1170,  Alex.. ,West,Telangana    , Hyderabad  ,Mobile,2,,085302!!!,2018-02-28
+20,1086,  Meena*** ,West,Tamil Nadu  , Pune  ,Watch,2,,674728!!!,2021-12-09
+21,1954,  Karan*** ,North,Kerala   , Chennai   ,Shoes,,,828327,2024-01-18
+22,1740,  Amit ,East,Tamil Nadu   , Kochi,Headphones,,,285885,2021-08-24
+23,1579,  Ravi    ,East,Maharashtra   , Mumbai,Watch,,,922596--,2024-10-09
+24,1619,  Alex! ,West,Tamil Nadu  , Kochi,Mobile,1,,445243,2018-02-01
+25,1519,  Karan    ,East,Kerala   , Chennai  ,Watch,6,,737863,2023-07-08
+26,1723,  Neha*** ,South,Karnataka    , Bangalore,Shoes,,745.32,779166--,2024-04-15
+27,1615,  Amit.. ,East,Telangana    , Chennai,Mobile,8,,(032768),2018-09-12
+28,1111,  David ,East,Telangana  , Hyderabad   ,Shoes,,,(733742),2019-04-18
+29,1165,  Karan ,North,Gujarat   , Hyderabad   ,Headphones,10,141.58,463849--,2024-12-02
+30,1615,  Neha.. ,East,Maharashtra    , Bangalore   ,Shoes,,,(071146),2020-05-06
+31,1904,  Sara.. ,South,Kerala  , Pune,Bag,,389.0,175401--,2019-04-05
+32,1702,  Amit.. ,East,Tamil Nadu    , Chennai  ,Mobile,,,054564--,2020-08-15
+33,1632,  David ,East,Karnataka    , Mumbai,Headphones,2,,059012,2024-06-14
+34,1774,  Ravi! ,North,Maharashtra   , Bangalore   ,Laptop,,,730603--,2021-01-13
+35,1053,  David ,East,Gujarat    , Mumbai   ,Laptop,7,642.07,458343!!!,2023-08-27
+36,1462,  Alex*** ,West,Maharashtra  , Bangalore   ,Bag,,,(361903),2020-08-16
+37,1110,  John.. ,East,Maharashtra   , Bangalore,Shoes,,1785.07,720656,2024-09-06
+38,1113,  Karan    ,North,Karnataka  , Chennai   ,Bag,,172.9,105832!!!,2022-10-02
+39,1609,  Sara    ,East,Gujarat  , Chennai   ,Shoes,,,031259,2023-09-06
+40,1203,  David ,East,Tamil Nadu   , Pune  ,Mobile,,789.19,523486,2024-10-08
+41,1995,  Neha*** ,North,Telangana  , Pune  ,Shoes,9,,478263!!!,2020-01-09
+42,1949,  Alex*** ,South,Tamil Nadu    , Bangalore  ,Watch,,399.5,022914,2022-01-02
+43,1930,  Meena ,South,Gujarat  , Kochi,Mobile,,1889.81,482496,2020-08-11
+44,1016,  Amit    ,East,Tamil Nadu   , Hyderabad,Bag,,467.93,950894--,2023-01-03
+45,1206,  Amit! ,North,Maharashtra    , Pune  ,Bag,,,097845--,2023-09-24
+46,1700,  John    ,West,Tamil Nadu   , Chennai,Headphones,,172.26,(112968),2021-04-10
+47,1852,  David*** ,South,Gujarat  , Chennai  ,Laptop,4,,(985216),2022-11-16
+48,1868,  David! ,East,Kerala  , Pune  ,Watch,,,218871,2021-02-20
+49,1035,  Karan ,East,Gujarat    , Kochi,Bag,,,433966,2018-11-28
+50,1196,  Neha    ,North,Karnataka    , Hyderabad,Laptop,,,907716--,2021-01-15
+51,1087,  John    ,South,Telangana    , Hyderabad   ,Laptop,,,174032!!!,2018-11-24
+52,1961,  Karan! ,South,Tamil Nadu   , Bangalore  ,Headphones,,176.0,(428553),2019-07-12
+53,1367,  Ravi ,South,Telangana  , Chennai,Laptop,4,,(476934),2018-04-16
+54,1708,  Ravi ,North,Karnataka    , Bangalore  ,Shoes,,,640444!!!,2023-02-21
+55,1594,  Priya    ,West,Maharashtra   , Kochi   ,Watch,,718.74,804016--,2021-05-18
+56,1744,  Karan    ,South,Karnataka    , Hyderabad  ,Watch,8,,647773,2024-11-20
+57,1587,  Sara! ,East,Kerala  , Bangalore  ,Mobile,6,178.25,(300503),2024-11-04
+58,1872,  Alex! ,North,Telangana  , Kochi   ,Shoes,8,,(888642),2018-05-11
+59,1868,  Sara ,North,Kerala   , Chennai   ,Bag,,662.38,(135810),2020-01-17
+60,1107,  Meena! ,North,Maharashtra    , Hyderabad   ,Mobile,8,561.91,627011,2018-12-18
+61,1450,  John.. ,South,Telangana   , Mumbai,Headphones,,1566.4,991302!!!,2022-06-02
+62,1684,  Priya.. ,East,Telangana  , Bangalore  ,Laptop,,735.91,433339--,2018-11-11
+63,1504,  Karan.. ,North,Gujarat    , Bangalore  ,Shoes,,,438097--,2023-04-04
+64,1760,  David! ,West,Telangana   , Kochi   ,Mobile,,1155.3,392568--,2018-10-19
+65,1431,  Alex ,East,Gujarat   , Hyderabad,Laptop,,,192265--,2019-09-26
+66,1274,  John    ,South,Telangana    , Mumbai,Laptop,,,046384!!!,2024-10-19
+67,1401,  Priya.. ,South,Kerala   , Kochi  ,Shoes,5,,778654--,2022-02-14
+68,1484,  Sara ,North,Tamil Nadu  , Kochi   ,Bag,,,127631,2022-09-13
+69,1741,  Amit ,North,Kerala    , Hyderabad,Watch,,,(286301),2019-08-01
+70,1718,  Alex*** ,West,Kerala    , Mumbai   ,Headphones,,,326453!!!,2023-12-01
+71,1866,  David! ,North,Gujarat    , Hyderabad,Bag,8,,(907103),2021-12-19
+72,1207,  Priya.. ,North,Maharashtra    , Hyderabad   ,Watch,9,,(325423),2022-10-09
+73,1350,  Amit*** ,East,Tamil Nadu   , Kochi,Shoes,1,,574915--,2024-02-05
+74,1110,  Amit ,West,Gujarat    , Kochi   ,Watch,,,865406!!!,2019-02-17
+75,1963,  David    ,South,Tamil Nadu   , Mumbai   ,Mobile,,1444.58,156492,2020-11-10
+76,1694,  Sara    ,West,Karnataka   , Kochi  ,Laptop,,385.34,968251!!!,2024-10-17
+77,1159,  Neha ,South,Karnataka   , Pune   ,Watch,,,(873748),2021-10-21
+78,1400,  John    ,North,Telangana   , Bangalore  ,Laptop,,813.47,850046--,2020-04-28
+79,1952,  Ravi! ,East,Karnataka    , Bangalore   ,Watch,8,,(212404),2020-08-17
+80,1043,  Ravi! ,East,Kerala  , Pune  ,Headphones,3,,195321--,2018-09-14
+81,1992,  Priya.. ,East,Karnataka    , Mumbai   ,Mobile,1,,301321--,2020-09-15
+82,1218,  Sara ,East,Karnataka   , Hyderabad,Laptop,,1259.91,001158--,2019-07-25
+83,1798,  Karan*** ,North,Maharashtra  , Bangalore  ,Bag,7,,(795325),2020-09-27
+84,1591,  Ravi*** ,South,Gujarat   , Mumbai  ,Shoes,,,614375!!!,2018-11-02
+85,1580,  Meena ,South,Maharashtra   , Hyderabad  ,Mobile,,181.54,902225,2021-05-03
+86,1125,  Meena.. ,West,Gujarat   , Mumbai  ,Bag,,,489098!!!,2021-07-09
+87,1316,  Karan    ,East,Kerala   , Pune  ,Watch,,967.5,846052!!!,2018-06-22
+88,1665,  Karan    ,North,Karnataka    , Mumbai,Bag,,,(001624),2023-01-14
+89,1526,  Meena*** ,East,Tamil Nadu  , Hyderabad,Mobile,,170.35,888683--,2019-04-28
+90,1158,  David*** ,East,Kerala   , Hyderabad  ,Laptop,1,,177186,2019-10-08
+91,1340,  Karan    ,East,Karnataka    , Chennai   ,Shoes,,1510.52,(789513),2023-01-15
+92,1859,  Ravi*** ,East,Karnataka  , Bangalore  ,Bag,4,,367506--,2024-11-09
+93,1295,  David ,North,Telangana   , Chennai,Watch,,,(977466),2024-08-09
+94,1432,  Meena.. ,North,Maharashtra  , Pune   ,Watch,,591.31,823268,2022-06-23
+95,1911,  Karan ,South,Kerala    , Bangalore,Watch,,,004659!!!,2024-10-21
+96,1353,  John ,West,Maharashtra   , Chennai  ,Watch,,,898608,2023-11-02
+97,1337,  David ,West,Kerala  , Pune  ,Shoes,,317.64,071312,2024-07-08
+98,1956,  David.. ,South,Kerala  , Kochi,Headphones,6,,(087954),2018-03-17
+99,1301,  Neha ,South,Maharashtra   , Kochi,Bag,,,(634451),2022-10-06
+100,1844,  Amit ,West,Gujarat    , Kochi   ,Shoes,,,465361--,2022-08-23
+101,1883,  John.. ,South,Karnataka  , Mumbai  ,Mobile,,,948024!!!,2018-12-21
+102,1948,  Priya    ,North,Karnataka   , Mumbai  ,Laptop,,,193725--,2022-08-07
+103,1721,  Amit.. ,West,Tamil Nadu    , Kochi  ,Laptop,,,447263!!!,2023-09-13
+104,1022,  Sara! ,South,Maharashtra  , Hyderabad,Bag,,1631.75,(455600),2019-06-04
+105,1863,  Alex    ,East,Gujarat  , Kochi   ,Mobile,4,,777004!!!,2018-02-28
+106,1234,  Alex.. ,South,Tamil Nadu   , Pune,Bag,7,,(939989),2020-09-23
+107,1186,  Ravi ,East,Telangana  , Mumbai,Watch,8,,242936,2023-07-03
+108,1564,  Amit ,East,Gujarat  , Pune   ,Bag,7,1373.02,(864878),2022-06-25
+109,1197,  John    ,West,Maharashtra    , Bangalore,Shoes,9,,034861,2022-03-12
+110,1299,  David*** ,West,Karnataka   , Hyderabad,Headphones,,,(214017),2020-04-20
+111,1945,  David.. ,East,Maharashtra   , Kochi   ,Bag,,,954267!!!,2019-10-22
+112,1078,  Sara.. ,South,Karnataka   , Mumbai  ,Watch,1,,(361311),2020-03-02
+113,1605,  Meena*** ,East,Maharashtra   , Pune   ,Laptop,,352.0,053660--,2022-03-24
+114,1813,  Priya    ,South,Telangana   , Bangalore   ,Watch,4,,739083--,2023-11-06
+115,1087,  Alex.. ,East,Gujarat   , Pune,Watch,,,338048!!!,2019-03-01
+116,1993,  Amit    ,East,Maharashtra  , Kochi,Watch,,1928.25,095369--,2021-03-05
+117,1059,  Alex*** ,West,Kerala    , Mumbai   ,Shoes,,,(898684),2023-01-13
+118,1241,  Ravi*** ,West,Karnataka    , Kochi   ,Bag,,,(741444),2018-09-15
+119,1422,  Amit    ,South,Gujarat    , Kochi   ,Watch,,,908140--,2024-01-13
+120,1447,  Neha! ,North,Maharashtra  , Kochi,Mobile,,,(354160),2022-02-01
+121,1434,  Neha ,South,Gujarat    , Hyderabad   ,Watch,,1416.25,359471!!!,2020-08-07
+122,1478,  John*** ,North,Maharashtra  , Bangalore,Headphones,,1558.5,466071,2018-08-26
+123,1282,  Priya    ,South,Tamil Nadu   , Kochi   ,Bag,3,,188877--,2024-10-03
+124,1319,  Priya.. ,West,Kerala    , Chennai  ,Mobile,,,551559--,2023-08-12
+125,1642,  Amit! ,West,Karnataka   , Hyderabad,Headphones,,367.45,830763,2021-08-28
+126,1385,  Sara! ,West,Kerala    , Hyderabad,Bag,10,,725925!!!,2021-12-20
+127,1578,  Sara*** ,West,Maharashtra  , Bangalore  ,Shoes,,,107406!!!,2019-09-13
+128,1522,  David! ,West,Tamil Nadu  , Kochi   ,Shoes,7,,191062,2022-10-27
+129,1263,  John.. ,North,Maharashtra    , Hyderabad  ,Mobile,2,,(309731),2020-08-10
+130,1194,  Karan.. ,South,Gujarat    , Pune   ,Shoes,5,,(024514),2024-06-08
+131,1835,  John.. ,East,Kerala   , Mumbai   ,Laptop,3,,226418,2022-05-04
+132,1966,  Ravi.. ,South,Kerala   , Mumbai,Bag,,,747685!!!,2023-09-05
+133,1441,  Ravi! ,West,Kerala    , Chennai,Laptop,,144.56,328891--,2018-05-01
+134,1625,  Ravi.. ,South,Gujarat   , Bangalore   ,Headphones,,,872207,2020-07-08
+135,1964,  John    ,East,Kerala  , Pune,Headphones,,,590593!!!,2021-12-05
+136,1878,  Ravi*** ,North,Kerala  , Pune  ,Shoes,,1329.46,032473!!!,2020-11-11
+137,1518,  Alex*** ,East,Maharashtra   , Bangalore  ,Mobile,,,(497354),2020-07-05
+138,1284,  Amit! ,East,Karnataka    , Hyderabad   ,Laptop,,,(352295),2018-06-11
+139,1221,  Sara ,East,Gujarat  , Kochi   ,Headphones,,,016113!!!,2023-08-22
+140,1933,  Priya    ,North,Maharashtra    , Bangalore  ,Shoes,5,1026.75,861949!!!,2020-10-17
+141,1829,  Karan! ,East,Maharashtra   , Bangalore,Headphones,,1282.29,950534,2022-10-24
+142,1852,  Sara    ,West,Tamil Nadu    , Kochi,Watch,,,783546!!!,2019-12-23
+143,1685,  Priya ,East,Maharashtra   , Bangalore,Watch,,,(390663),2018-03-07
+144,1890,  Alex ,North,Karnataka    , Kochi  ,Bag,,695.53,(924106),2020-07-08
+145,1554,  David    ,West,Maharashtra  , Bangalore  ,Headphones,4,,068363,2024-11-16
+146,1332,  David.. ,East,Telangana   , Pune   ,Watch,,,950535!!!,2021-07-03
+147,1024,  Meena    ,East,Telangana    , Kochi  ,Laptop,,,757454!!!,2023-04-10
+148,1815,  John*** ,South,Maharashtra   , Kochi,Watch,,,362517!!!,2022-05-20
+149,1952,  John ,South,Telangana  , Mumbai,Shoes,,,(265015),2019-09-13
+150,1809,  John ,West,Gujarat   , Pune   ,Headphones,,,(527949),2023-06-24
+151,1827,  Karan ,West,Gujarat  , Mumbai,Laptop,9,346.99,(066652),2022-05-19
+152,1311,  David ,South,Kerala  , Chennai,Mobile,5,,055648,2023-06-06
+153,1678,  Neha*** ,East,Kerala    , Mumbai,Mobile,,1706.12,(229137),2018-01-16
+154,1915,  Ravi*** ,East,Maharashtra    , Bangalore   ,Bag,,,424260!!!,2021-07-14
+155,1490,  Alex    ,West,Kerala   , Hyderabad,Bag,6,,(685920),2021-06-15
+156,1125,  Priya ,South,Telangana  , Bangalore   ,Mobile,,833.52,485451,2023-06-11
+157,1200,  Meena ,South,Gujarat   , Hyderabad  ,Watch,9,1848.51,004358--,2020-01-18
+158,1146,  David ,North,Tamil Nadu  , Hyderabad   ,Shoes,4,,758463--,2022-08-10
+159,1644,  Karan.. ,East,Tamil Nadu   , Chennai   ,Headphones,2,,172920,2018-08-11
+160,1249,  Ravi.. ,West,Maharashtra    , Chennai  ,Watch,5,,969879,2021-05-27
+161,1767,  Neha ,North,Tamil Nadu    , Bangalore   ,Headphones,5,1478.71,673136!!!,2024-11-04
+162,1633,  Neha*** ,West,Kerala    , Bangalore  ,Laptop,6,,(602870),2023-04-17
+163,1358,  Meena*** ,East,Tamil Nadu  , Hyderabad   ,Laptop,,,900596!!!,2021-04-13
+164,1975,  Priya! ,East,Telangana   , Chennai  ,Watch,2,,(128439),2021-05-01
+165,1652,  Meena! ,West,Karnataka   , Mumbai  ,Mobile,,,937660,2022-11-26
+166,1989,  Neha*** ,West,Telangana   , Kochi  ,Bag,2,,371744,2019-02-06
+167,1845,  Meena.. ,North,Telangana   , Bangalore   ,Bag,10,,073906--,2020-05-04
+168,1344,  Ravi! ,West,Telangana    , Bangalore,Mobile,7,,950499,2024-04-27
+169,1256,  John    ,North,Gujarat  , Hyderabad   ,Mobile,,,645304!!!,2018-03-09
+170,1403,  Priya*** ,West,Kerala   , Pune   ,Bag,,1516.2,441689--,2019-03-16
+171,1939,  Amit.. ,North,Kerala    , Hyderabad  ,Bag,,1723.89,709150--,2023-07-23
+172,1711,  John*** ,West,Kerala   , Kochi   ,Shoes,2,,815425,2020-02-24
+173,1899,  Amit*** ,East,Maharashtra   , Chennai,Headphones,,,642063--,2021-07-27
+174,1186,  David! ,South,Karnataka    , Kochi,Shoes,,1016.74,886787!!!,2020-06-21
+175,1550,  Amit! ,West,Telangana  , Pune   ,Watch,5,,787378--,2023-09-07
+176,1861,  Neha    ,North,Gujarat  , Mumbai  ,Headphones,2,604.99,368230--,2022-03-15
+177,1271,  Karan ,East,Karnataka   , Hyderabad  ,Watch,,679.97,173201,2024-08-20
+178,1339,  Neha    ,West,Maharashtra    , Hyderabad  ,Watch,,,399570--,2020-04-12
+179,1568,  Sara! ,West,Gujarat   , Kochi  ,Bag,,,635396,2022-12-17
+180,1585,  David    ,North,Telangana    , Pune  ,Mobile,,,(359137),2019-02-07
+181,1894,  Priya    ,North,Maharashtra    , Bangalore  ,Bag,,,881784,2019-08-19
+182,1330,  Meena ,East,Gujarat    , Chennai   ,Mobile,10,1174.58,(102286),2022-05-12
+183,1670,  David*** ,East,Tamil Nadu   , Mumbai  ,Watch,5,,619199,2020-11-19
+184,1395,  Meena.. ,North,Karnataka   , Mumbai,Shoes,8,,196024--,2023-10-21
+185,1426,  Sara*** ,West,Karnataka    , Pune   ,Watch,6,,106406,2020-09-22
+186,1258,  Meena    ,North,Kerala    , Kochi,Mobile,4,,(187118),2024-04-07
+187,1790,  Ravi! ,West,Tamil Nadu    , Chennai   ,Laptop,,799.0,(960556),2021-02-12
+188,1645,  Meena ,East,Karnataka   , Mumbai   ,Watch,,,355194,2022-02-17
+189,1180,  Sara ,West,Telangana   , Kochi,Shoes,,1811.79,080271!!!,2018-11-19
+190,1917,  Neha ,East,Telangana  , Mumbai   ,Headphones,,,519263--,2019-10-07
+191,1834,  John! ,East,Telangana  , Bangalore   ,Laptop,,,448332!!!,2023-12-05
+192,1213,  Neha*** ,South,Kerala   , Kochi  ,Shoes,,,485009--,2022-10-15
+193,1131,  Alex.. ,West,Maharashtra    , Pune   ,Watch,5,,841979,2020-03-21
+194,1493,  Alex! ,North,Tamil Nadu   , Hyderabad,Mobile,3,1128.78,214995,2021-07-25
+195,1105,  Sara.. ,East,Gujarat  , Kochi,Headphones,10,,(730026),2022-07-28
+196,1758,  David.. ,West,Maharashtra  , Pune,Bag,,1185.08,(972389),2021-04-09
+197,1114,  John    ,East,Tamil Nadu    , Kochi   ,Laptop,,,(799396),2019-12-20
+198,1049,  Karan    ,West,Telangana   , Hyderabad  ,Laptop,,,424315!!!,2019-11-06
+199,1014,  John! ,South,Tamil Nadu   , Hyderabad   ,Headphones,,,(859601),2022-08-27
+200,1880,  John ,East,Gujarat  , Bangalore,Bag,,,979598,2019-12-26
+201,1424,  Amit*** ,North,Tamil Nadu  , Bangalore,Shoes,,763.8,184765--,2024-10-15
+202,1873,  David    ,West,Tamil Nadu    , Mumbai   ,Watch,1,,506883,2024-08-28
+203,1338,  Meena ,North,Gujarat  , Hyderabad   ,Bag,,,153740,2020-07-21
+204,1122,  Ravi.. ,West,Tamil Nadu   , Mumbai,Shoes,,,653688--,2023-04-25
+205,1179,  David*** ,South,Karnataka   , Pune,Watch,,1894.4,339564,2021-07-07
+206,1288,  Sara.. ,South,Karnataka   , Mumbai,Headphones,8,,940896,2024-02-02
+207,1939,  David ,East,Kerala   , Chennai,Laptop,,,783001--,2022-12-13
+208,1052,  Alex ,South,Tamil Nadu  , Kochi,Mobile,,,611574,2019-02-21
+209,1636,  David! ,South,Gujarat  , Chennai  ,Headphones,,,499192--,2022-10-18
+210,1948,  John    ,South,Karnataka    , Bangalore  ,Watch,,,934654,2024-11-09
+211,1585,  Sara*** ,North,Telangana  , Kochi  ,Bag,9,300.56,633191,2020-01-15
+212,1260,  Priya    ,North,Tamil Nadu    , Pune   ,Bag,,,(163606),2022-04-05
+213,1962,  David*** ,North,Karnataka   , Pune,Watch,2,,(991304),2021-06-12
+214,1784,  Sara! ,South,Kerala   , Hyderabad   ,Watch,1,,172158--,2019-04-04
+215,1617,  Alex    ,South,Kerala    , Pune,Headphones,,,(463142),2022-04-19
+216,1911,  Meena    ,East,Kerala    , Mumbai  ,Bag,,484.93,298527!!!,2022-10-19
+217,1854,  John! ,South,Tamil Nadu   , Kochi  ,Watch,9,,226098--,2020-06-07
+218,1858,  Amit ,West,Tamil Nadu  , Chennai  ,Shoes,,,887055,2024-07-02
+219,1788,  Amit ,South,Karnataka   , Mumbai   ,Mobile,6,,127009,2020-03-12
+220,1067,  Amit    ,North,Tamil Nadu   , Mumbai  ,Headphones,,,038670,2018-10-05
+221,1145,  Amit    ,East,Telangana   , Kochi   ,Watch,,,(214008),2020-05-21
+222,1555,  Amit.. ,West,Kerala    , Kochi   ,Watch,8,,024117!!!,2020-09-17
+223,1541,  Neha*** ,East,Tamil Nadu   , Hyderabad,Headphones,,,827979!!!,2020-12-08
+224,1142,  Ravi.. ,North,Karnataka   , Mumbai  ,Headphones,4,1642.95,873837--,2021-05-09
+225,1733,  Sara ,South,Maharashtra   , Chennai  ,Mobile,7,,128887,2022-06-27
+226,1230,  Ravi*** ,East,Telangana  , Chennai  ,Mobile,,,862363--,2019-12-14
+227,1648,  Amit*** ,East,Kerala   , Mumbai   ,Shoes,7,1395.49,094743!!!,2020-11-17
+228,1320,  Amit! ,North,Telangana  , Bangalore  ,Headphones,,1390.91,805558!!!,2022-02-06
+229,1964,  Meena.. ,East,Tamil Nadu  , Kochi,Laptop,5,,051219--,2019-08-01
+230,1701,  Sara    ,West,Tamil Nadu   , Bangalore,Watch,5,,(630774),2024-02-13
+231,1094,  Sara    ,East,Gujarat   , Pune  ,Mobile,,,539470--,2024-03-13
+232,1814,  Karan.. ,South,Telangana    , Bangalore,Shoes,,,(177182),2022-12-20
+233,1467,  David! ,North,Karnataka   , Bangalore,Laptop,,,489528!!!,2021-01-06
+234,1730,  Sara    ,East,Kerala    , Bangalore,Mobile,,,213019!!!,2024-06-03
+235,1028,  David.. ,West,Maharashtra  , Bangalore  ,Mobile,,1250.77,416867,2021-02-28
+236,1202,  Alex.. ,East,Kerala  , Chennai   ,Headphones,5,1843.84,390764!!!,2022-04-13
+237,1089,  Meena! ,West,Gujarat  , Pune,Shoes,,,942133,2019-04-26
+238,1316,  Karan! ,West,Maharashtra   , Bangalore   ,Headphones,,,145727,2021-04-14
+239,1990,  Meena*** ,South,Tamil Nadu   , Hyderabad,Laptop,5,1444.5,770612!!!,2021-04-28
+240,1862,  David*** ,East,Kerala   , Chennai,Watch,,,(095670),2021-06-25
+241,1360,  Alex.. ,South,Maharashtra   , Kochi   ,Mobile,7,575.06,(363706),2024-07-17
+242,1520,  Ravi.. ,North,Gujarat  , Bangalore,Watch,,,(987725),2023-07-01
+243,1530,  Amit*** ,West,Telangana   , Kochi,Shoes,,1927.82,485049--,2021-11-06
+244,1560,  Priya.. ,East,Telangana   , Chennai,Laptop,7,,479855--,2021-01-18
+245,1008,  Ravi    ,North,Maharashtra   , Mumbai  ,Headphones,,,(296220),2022-10-04
+246,1277,  Meena    ,West,Tamil Nadu    , Mumbai   ,Bag,,,505111,2024-08-23
+247,1274,  Alex ,East,Gujarat    , Chennai,Mobile,5,,(829055),2020-09-11
+248,1064,  Meena.. ,North,Gujarat   , Mumbai  ,Mobile,,783.19,302054,2024-01-25
+249,1390,  Amit*** ,West,Tamil Nadu   , Kochi   ,Watch,,563.2,(246512),2019-10-14
+250,1924,  Amit! ,South,Karnataka    , Mumbai  ,Watch,,,728349--,2018-12-18
+251,1924,  Priya! ,North,Karnataka  , Mumbai  ,Laptop,9,,955750,2020-06-10
+252,1646,  David*** ,South,Karnataka    , Pune  ,Headphones,1,,536834,2022-08-22
+253,1791,  Sara    ,North,Maharashtra   , Pune,Mobile,,1277.05,632728!!!,2018-02-10
+254,1576,  Amit    ,South,Telangana  , Kochi,Bag,,,338681--,2021-06-23
+255,1485,  Meena    ,West,Telangana   , Bangalore   ,Shoes,,,(944841),2024-10-01
+256,1675,  Neha*** ,North,Gujarat  , Hyderabad,Bag,,,261043--,2021-01-13
+257,1141,  Meena ,South,Kerala   , Bangalore   ,Mobile,,868.25,543853,2023-10-14
+258,1277,  John*** ,East,Karnataka   , Hyderabad   ,Headphones,3,1809.18,277380,2018-07-06
+259,1534,  Alex*** ,South,Kerala  , Chennai,Bag,,850.96,175071--,2020-03-11
+260,1232,  Priya    ,East,Maharashtra  , Kochi,Laptop,,676.91,239014!!!,2020-01-05
+261,1677,  Ravi*** ,East,Tamil Nadu   , Mumbai,Mobile,,1107.27,(912233),2022-10-10
+262,1068,  Amit*** ,North,Karnataka   , Hyderabad   ,Mobile,1,,903509,2021-06-04
+263,1864,  Alex! ,West,Telangana   , Kochi   ,Bag,,1223.29,504244,2019-05-13
+264,1273,  Alex    ,West,Karnataka  , Kochi  ,Mobile,,,401288--,2022-12-08
+265,1529,  Sara.. ,North,Gujarat   , Hyderabad  ,Laptop,,140.3,739142,2020-05-09
+266,1565,  Priya! ,North,Kerala    , Bangalore,Laptop,,,721620!!!,2023-10-12
+267,1781,  Meena! ,West,Maharashtra    , Bangalore,Headphones,,,(458413),2020-12-25
+268,1189,  Ravi    ,East,Kerala   , Kochi   ,Watch,,,306679--,2021-12-19
+269,1823,  Meena*** ,North,Tamil Nadu    , Bangalore   ,Laptop,,,862028,2018-09-10
+270,1538,  Amit ,West,Gujarat    , Pune   ,Headphones,,,780492--,2019-01-18
+271,1485,  Karan*** ,West,Maharashtra   , Pune   ,Headphones,,,504458,2019-05-03
+272,1792,  Karan*** ,East,Karnataka   , Bangalore,Headphones,,1809.6,384239,2021-06-12
+273,1240,  Sara! ,South,Gujarat   , Chennai   ,Shoes,,,582001,2020-07-21
+274,1126,  Meena.. ,West,Telangana  , Chennai  ,Headphones,1,476.57,541309--,2020-03-03
+275,1581,  Neha ,North,Maharashtra  , Mumbai,Headphones,,937.33,772178!!!,2023-04-04
+276,1269,  Karan*** ,West,Karnataka    , Bangalore,Bag,,,336475,2024-02-24
+277,1416,  David.. ,West,Gujarat   , Hyderabad   ,Bag,2,,987307--,2022-12-06
+278,1313,  David ,West,Kerala  , Pune  ,Shoes,2,665.57,807976!!!,2023-04-03
+279,1141,  Ravi    ,South,Telangana   , Hyderabad,Shoes,,,(869919),2021-04-12
+280,1043,  Meena*** ,North,Gujarat    , Kochi  ,Bag,,,(543632),2020-02-01
+281,1308,  Sara*** ,North,Maharashtra    , Mumbai  ,Shoes,,,(414721),2020-09-04
+282,1607,  Amit*** ,South,Karnataka    , Bangalore  ,Laptop,,,080655!!!,2020-11-26
+283,1951,  Meena*** ,South,Karnataka    , Bangalore,Bag,,1751.93,547160!!!,2022-11-10
+284,1551,  Meena*** ,North,Karnataka   , Hyderabad   ,Headphones,8,,(323703),2019-05-21
+285,1867,  Priya! ,North,Maharashtra   , Kochi,Watch,5,,865959--,2021-04-14
+286,1630,  Alex    ,South,Karnataka    , Pune   ,Bag,,,463469,2024-09-21
+287,1434,  Sara    ,East,Karnataka    , Bangalore   ,Headphones,,,459498--,2018-07-18
+288,1847,  Meena.. ,South,Telangana    , Bangalore  ,Shoes,,,(584837),2022-02-04
+289,1082,  Ravi ,East,Karnataka   , Mumbai,Watch,,711.95,745824,2023-10-23
+290,1473,  Amit    ,South,Gujarat   , Kochi   ,Watch,,,995418--,2020-04-20
+291,1872,  Meena.. ,East,Maharashtra  , Pune  ,Headphones,,,(848032),2020-02-18
+292,1777,  Sara! ,South,Gujarat   , Mumbai  ,Mobile,,1275.87,339936!!!,2024-05-16
+293,1069,  Sara! ,West,Karnataka    , Chennai,Watch,,,906803!!!,2019-08-16
+294,1367,  Priya*** ,South,Tamil Nadu  , Kochi,Shoes,,,(883235),2022-05-12
+295,1016,  Amit*** ,North,Gujarat   , Chennai   ,Laptop,4,,905021!!!,2020-07-23
+296,1410,  Meena    ,North,Tamil Nadu  , Chennai,Headphones,,691.26,(530001),2021-01-12
+297,1500,  Alex    ,North,Tamil Nadu    , Bangalore  ,Watch,,,844078--,2022-06-26
+298,1258,  Meena    ,North,Maharashtra  , Mumbai  ,Headphones,7,,116573,2023-12-26
+299,1013,  Neha! ,North,Karnataka  , Mumbai   ,Bag,,,650867,2024-07-02
+300,1223,  Alex! ,North,Gujarat    , Mumbai  ,Watch,,,744542,2023-03-15
+301,1311,  Amit.. ,East,Tamil Nadu   , Kochi   ,Mobile,,,674114--,2021-07-11
+302,1682,  John! ,South,Maharashtra  , Chennai,Bag,6,1147.24,770418!!!,2022-05-09
+303,1995,  John! ,North,Kerala  , Chennai   ,Shoes,1,164.06,(722815),2018-07-05
+304,1687,  Sara*** ,East,Maharashtra   , Mumbai,Watch,3,1588.48,853021,2019-05-22
+305,1187,  Sara*** ,North,Kerala  , Hyderabad  ,Laptop,,,457483!!!,2022-06-25
+306,1219,  Priya ,East,Tamil Nadu   , Bangalore,Bag,10,1227.18,038850!!!,2022-04-28
+307,1423,  Priya.. ,East,Karnataka   , Kochi  ,Mobile,,,782353,2020-06-17
+308,1233,  Amit*** ,West,Gujarat   , Hyderabad   ,Watch,,,608792--,2022-05-23
+309,1078,  Meena*** ,West,Kerala  , Chennai,Laptop,,,198368!!!,2019-12-10
+310,1216,  Sara.. ,West,Kerala  , Pune   ,Bag,,,(840394),2023-07-17
+311,1562,  David.. ,West,Karnataka   , Chennai   ,Laptop,,1030.44,(657680),2019-11-03
+312,1970,  Amit.. ,South,Gujarat   , Kochi  ,Mobile,,701.26,910608!!!,2020-01-03
+313,1742,  Sara.. ,North,Telangana   , Hyderabad  ,Bag,,,512014,2022-08-17
+314,1747,  Meena ,West,Maharashtra   , Pune  ,Watch,,,803154--,2023-09-26
+315,1008,  Alex ,South,Kerala    , Hyderabad   ,Shoes,10,,431644!!!,2019-10-07
+316,1059,  Meena*** ,East,Kerala   , Hyderabad,Laptop,,,037550!!!,2022-03-09
+317,1656,  David ,East,Gujarat    , Mumbai,Watch,,1077.05,422579!!!,2021-10-13
+318,1730,  Ravi ,South,Tamil Nadu   , Chennai  ,Bag,,,729695,2021-08-25
+319,1885,  Sara    ,West,Kerala    , Hyderabad,Bag,4,,350703--,2020-12-19
+320,1168,  Priya ,West,Tamil Nadu  , Chennai   ,Watch,,,(124096),2020-04-11
+321,1452,  Neha! ,East,Maharashtra   , Chennai  ,Headphones,3,450.68,(517441),2018-08-18
+322,1268,  Ravi! ,West,Maharashtra  , Bangalore,Mobile,,1112.52,070389!!!,2023-07-20
+323,2000,  Karan    ,North,Telangana   , Hyderabad  ,Shoes,10,,203288!!!,2024-04-09
+324,1934,  Karan! ,West,Kerala   , Bangalore   ,Shoes,,,145085,2021-11-25
+325,1366,  Neha.. ,South,Maharashtra    , Bangalore   ,Laptop,2,,164063--,2018-01-13
+326,1501,  John*** ,North,Maharashtra  , Hyderabad,Shoes,,,250671,2021-04-11
+327,1777,  Neha ,West,Gujarat   , Mumbai   ,Shoes,,1673.89,006401,2023-06-22
+328,1570,  Neha ,South,Karnataka    , Bangalore  ,Watch,,,992816!!!,2019-08-10
+329,1265,  Sara*** ,East,Gujarat  , Bangalore  ,Shoes,4,,518756--,2024-07-03
+330,1570,  Neha*** ,South,Karnataka  , Chennai   ,Bag,,,656049!!!,2021-07-11
+331,1918,  John! ,South,Karnataka    , Mumbai  ,Mobile,,,128192--,2018-03-16
+332,1292,  Neha! ,North,Tamil Nadu   , Kochi,Bag,,,147263,2022-09-12
+333,1517,  John.. ,South,Kerala    , Kochi,Mobile,3,1007.27,606695!!!,2023-02-22
+334,1483,  Neha! ,West,Tamil Nadu   , Kochi  ,Watch,,,513005,2021-07-08
+335,1614,  John! ,West,Karnataka  , Chennai   ,Mobile,,,(868403),2020-12-15
+336,1885,  Sara! ,South,Telangana   , Pune  ,Shoes,,,721322,2020-08-13
+337,1048,  John ,East,Telangana    , Chennai  ,Shoes,,,126001!!!,2022-06-24
+338,1960,  Alex*** ,West,Tamil Nadu    , Chennai   ,Watch,,731.16,661373--,2023-10-02
+339,1749,  Alex! ,North,Maharashtra  , Chennai,Mobile,5,,307589,2018-04-02
+340,1664,  Karan! ,South,Tamil Nadu  , Chennai   ,Laptop,,528.38,346296--,2021-03-07
+341,1719,  Amit ,East,Maharashtra   , Hyderabad   ,Headphones,,,121557!!!,2022-04-28
+342,1380,  Priya*** ,South,Maharashtra  , Pune  ,Bag,,236.25,701650,2021-04-21
+343,1968,  Priya.. ,West,Tamil Nadu   , Hyderabad  ,Laptop,,,(348529),2021-08-27
+344,1177,  Neha*** ,North,Maharashtra  , Pune   ,Mobile,,,234300,2018-03-01
+345,1826,  Alex ,North,Karnataka    , Bangalore   ,Laptop,9,,972063!!!,2022-08-19
+346,1654,  John ,West,Maharashtra   , Mumbai  ,Shoes,,1177.28,446090!!!,2023-07-04
+347,1846,  John ,West,Telangana   , Hyderabad,Mobile,,,942381!!!,2022-05-02
+348,1771,  Alex*** ,East,Tamil Nadu    , Chennai,Laptop,4,1901.61,758710--,2020-11-23
+349,1205,  Alex.. ,East,Karnataka    , Chennai,Laptop,6,,996367!!!,2024-02-28
+350,1346,  Ravi    ,West,Maharashtra   , Kochi  ,Headphones,,,(019467),2018-03-26
+351,1732,  John    ,South,Kerala    , Bangalore  ,Mobile,7,,146540,2020-06-18
+352,1402,  Sara ,East,Kerala   , Kochi,Mobile,,,(798648),2018-02-02
+353,1526,  John    ,East,Kerala   , Bangalore   ,Bag,,,419781,2023-09-28
+354,1996,  John    ,North,Tamil Nadu  , Mumbai,Laptop,,1923.8,178103,2020-09-23
+355,1769,  David.. ,North,Telangana    , Chennai,Bag,8,,159604!!!,2023-12-08
+356,1551,  Sara    ,West,Karnataka    , Mumbai,Bag,,,924661,2024-03-02
+357,1154,  Ravi! ,West,Tamil Nadu  , Mumbai  ,Mobile,,1521.12,727381--,2022-05-27
+358,1132,  Meena*** ,South,Karnataka    , Bangalore  ,Shoes,,1910.44,(155937),2019-05-08
+359,1427,  Neha*** ,East,Maharashtra  , Hyderabad,Watch,,708.37,486785--,2020-03-26
+360,1711,  Alex! ,North,Karnataka   , Bangalore,Mobile,2,,(148027),2019-05-08
+361,2000,  Sara.. ,South,Karnataka    , Hyderabad,Shoes,5,,935166!!!,2024-06-25
+362,1179,  Neha ,North,Maharashtra   , Hyderabad  ,Headphones,2,709.04,073556--,2024-09-19
+363,1858,  Neha ,East,Maharashtra  , Mumbai  ,Laptop,2,263.77,073259,2019-11-09
+364,1081,  Priya*** ,East,Kerala    , Bangalore,Laptop,,146.51,638612,2022-01-10
+365,1614,  Ravi    ,North,Kerala  , Chennai,Shoes,,,(405427),2021-07-27
+366,1501,  Sara! ,North,Gujarat  , Chennai  ,Laptop,1,,475436--,2018-07-21
+367,1487,  David! ,North,Karnataka  , Pune   ,Laptop,,1827.33,943449!!!,2020-03-07
+368,1282,  Neha! ,West,Maharashtra    , Hyderabad   ,Shoes,7,,235951--,2019-03-20
+369,1443,  Priya! ,East,Karnataka  , Mumbai  ,Mobile,3,,825017--,2019-02-08
+370,1991,  Sara    ,West,Kerala  , Hyderabad   ,Watch,,,(684609),2022-09-22
+371,1145,  Sara*** ,East,Maharashtra  , Chennai,Mobile,,,(260577),2024-06-11
+372,1458,  Alex.. ,South,Karnataka  , Pune,Watch,2,,104504--,2023-10-02
+373,1578,  Amit    ,West,Telangana  , Pune  ,Mobile,,624.83,731427--,2018-07-14
+374,1458,  Amit*** ,North,Tamil Nadu    , Kochi  ,Headphones,,,548774,2021-08-08
+375,1466,  Sara ,South,Karnataka   , Bangalore,Watch,9,,(964277),2022-01-18
+376,1082,  John*** ,South,Telangana   , Bangalore  ,Bag,,,332923--,2019-11-18
+377,1133,  John.. ,South,Tamil Nadu    , Hyderabad  ,Laptop,,,599508!!!,2021-10-22
+378,1370,  Ravi! ,North,Telangana   , Bangalore   ,Bag,2,174.91,332877,2019-06-25
+379,1447,  Karan ,West,Gujarat   , Hyderabad  ,Watch,,,(787036),2021-05-15
+380,1684,  Ravi ,South,Kerala    , Kochi,Headphones,,,(391697),2019-11-23
+381,1483,  David ,West,Maharashtra  , Kochi   ,Laptop,,,(323610),2022-02-03
+382,1546,  Meena    ,East,Maharashtra   , Kochi   ,Mobile,,,078456!!!,2020-04-05
+383,1723,  Sara*** ,South,Tamil Nadu   , Pune  ,Watch,6,,418987!!!,2022-11-07
+384,1981,  Karan ,North,Kerala   , Bangalore  ,Laptop,,,526791,2023-07-06
+385,1976,  John.. ,East,Gujarat    , Chennai  ,Bag,,600.29,393787!!!,2021-12-05
+386,1795,  Ravi    ,South,Karnataka   , Chennai   ,Mobile,1,1794.78,946191!!!,2024-05-06
+387,1653,  John! ,East,Gujarat   , Mumbai  ,Mobile,6,1390.89,(494568),2018-04-28
+388,1195,  Alex ,West,Telangana  , Hyderabad,Laptop,,,127356,2024-03-14
+389,1296,  Amit.. ,South,Gujarat  , Chennai   ,Bag,10,1278.09,890925!!!,2023-07-03
+390,1196,  Meena    ,West,Kerala   , Bangalore   ,Shoes,,,259642--,2021-03-23
+391,1159,  Priya.. ,South,Maharashtra   , Chennai  ,Bag,8,1059.26,576419,2023-02-08
+392,1904,  Priya.. ,East,Kerala  , Bangalore  ,Shoes,,,265668!!!,2023-09-26
+393,1635,  Meena    ,West,Telangana    , Chennai,Mobile,,1577.17,(510158),2020-04-14
+394,1764,  Priya ,South,Telangana  , Pune   ,Headphones,,,190876!!!,2023-06-26
+395,1673,  Ravi*** ,West,Telangana    , Bangalore,Headphones,,1547.16,706647,2018-11-13
+396,1890,  David.. ,West,Gujarat  , Kochi   ,Laptop,,,088853!!!,2024-09-20
+397,1248,  Meena.. ,East,Gujarat  , Mumbai   ,Laptop,,1552.73,260804!!!,2023-06-28
+398,1541,  Karan.. ,South,Telangana  , Mumbai  ,Watch,,1752.87,415919!!!,2024-08-27
+399,1080,  Ravi    ,North,Maharashtra   , Mumbai  ,Laptop,8,,974382--,2018-02-10
+400,1076,  Meena*** ,East,Telangana    , Hyderabad  ,Bag,,,(678359),2019-05-03
+401,1506,  David.. ,North,Maharashtra   , Mumbai   ,Mobile,,1875.94,262182--,2019-08-09
+402,1730,  Priya ,East,Tamil Nadu    , Chennai,Bag,10,,675938!!!,2019-12-17
+403,1525,  Alex ,North,Gujarat  , Kochi  ,Mobile,,390.42,420434!!!,2020-07-12
+404,1140,  Meena! ,East,Maharashtra    , Kochi  ,Headphones,,1614.26,143101--,2018-05-15
+405,1841,  John! ,East,Gujarat  , Hyderabad   ,Shoes,,785.55,219700!!!,2018-11-21
+406,1203,  Meena ,North,Telangana    , Hyderabad,Headphones,3,,235078,2018-06-02
+407,1100,  Ravi    ,East,Karnataka    , Chennai,Mobile,,,289102,2020-08-19
+408,1509,  Neha! ,North,Maharashtra    , Kochi  ,Shoes,6,,197209,2021-05-06
+409,1678,  Neha    ,South,Telangana    , Hyderabad,Watch,,,716358,2018-06-02
+410,1261,  Neha.. ,North,Maharashtra   , Chennai  ,Laptop,,,798776!!!,2021-09-26
+411,1701,  Ravi    ,East,Karnataka   , Mumbai   ,Laptop,,,536125--,2018-10-23
+412,1447,  John.. ,South,Tamil Nadu  , Kochi,Shoes,,1272.1,357443--,2018-06-20
+413,1199,  Neha ,West,Maharashtra   , Hyderabad,Shoes,,,324644,2019-10-27
+414,1865,  David.. ,West,Kerala    , Kochi  ,Watch,,,(405989),2018-09-21
+415,1660,  Amit*** ,East,Tamil Nadu    , Kochi   ,Headphones,,1024.21,(165788),2022-01-16
+416,1759,  David! ,South,Karnataka  , Chennai   ,Headphones,4,,778326!!!,2018-03-24
+417,1166,  Priya.. ,South,Maharashtra   , Hyderabad,Shoes,1,,981647--,2020-02-22
+418,1413,  Karan*** ,North,Maharashtra    , Mumbai,Shoes,4,,489379!!!,2022-03-04
+419,1375,  Priya    ,East,Gujarat   , Bangalore,Bag,,,689567,2023-08-07
+420,1884,  Amit ,West,Telangana  , Mumbai   ,Headphones,2,,149637,2020-07-09
+421,1152,  Sara! ,South,Telangana    , Pune  ,Mobile,,491.34,886564,2021-03-23
+422,1760,  John.. ,North,Karnataka  , Chennai  ,Headphones,2,,801776,2020-10-04
+423,1407,  Ravi ,West,Telangana    , Kochi  ,Laptop,,1528.81,405012!!!,2023-07-13
+424,1592,  Priya ,West,Telangana   , Hyderabad   ,Mobile,,,941924!!!,2018-12-04
+425,1912,  Sara*** ,South,Karnataka   , Pune   ,Mobile,,578.52,952625--,2024-03-14
+426,1062,  Meena! ,East,Karnataka    , Kochi   ,Laptop,,,557593!!!,2023-11-14
+427,1310,  John! ,West,Telangana    , Mumbai,Bag,,,772490--,2023-01-16
+428,1545,  Priya    ,South,Tamil Nadu    , Kochi,Bag,2,1586.09,(886878),2024-05-17
+429,1372,  Priya! ,South,Karnataka  , Mumbai,Shoes,6,741.69,327340!!!,2022-02-25
+430,1150,  Sara.. ,North,Maharashtra    , Mumbai,Laptop,5,1502.73,068560,2022-08-16
+431,1471,  Amit*** ,North,Karnataka  , Mumbai   ,Shoes,,,413405--,2021-05-09
+432,1311,  Neha.. ,West,Gujarat   , Mumbai,Bag,,,105090,2024-04-19
+433,1006,  David    ,South,Gujarat   , Bangalore   ,Watch,,,095463!!!,2019-09-22
+434,1036,  Alex    ,South,Gujarat  , Mumbai,Mobile,7,1053.18,(460082),2021-01-28
+435,1257,  Karan.. ,West,Gujarat  , Chennai   ,Watch,,1080.99,151674!!!,2022-01-23
+436,1744,  Alex! ,East,Gujarat   , Bangalore,Watch,,1300.79,(676179),2021-05-18
+437,1239,  Priya    ,West,Kerala   , Chennai,Watch,,871.92,599222--,2023-06-28
+438,1872,  Ravi ,East,Tamil Nadu    , Chennai  ,Headphones,,,852399--,2019-05-13
+439,1842,  John    ,North,Tamil Nadu  , Pune   ,Mobile,,,595520!!!,2018-06-10
+440,1419,  Meena! ,East,Kerala    , Hyderabad,Mobile,8,1837.29,595113,2021-07-21
+441,1217,  David    ,West,Gujarat    , Mumbai,Bag,,,192357--,2020-04-22
+442,1922,  David ,North,Telangana  , Mumbai,Mobile,,,(803382),2022-05-02
+443,1359,  Karan.. ,East,Telangana  , Bangalore  ,Mobile,,1123.51,937078,2024-09-25
+444,1499,  David! ,South,Karnataka   , Pune,Mobile,1,,998861--,2024-01-12
+445,1281,  Amit ,South,Telangana  , Hyderabad,Bag,,,539459--,2024-03-06
+446,1673,  Karan ,West,Kerala    , Kochi  ,Watch,5,,121189--,2021-09-19
+447,1993,  Neha    ,West,Kerala   , Bangalore   ,Mobile,,132.24,776738,2024-12-18
+448,1627,  Karan    ,East,Tamil Nadu  , Bangalore  ,Headphones,,1585.67,408529!!!,2019-11-26
+449,1544,  Amit! ,West,Maharashtra    , Chennai  ,Mobile,10,,252160--,2023-03-05
+450,1020,  Sara.. ,East,Gujarat  , Bangalore   ,Watch,,991.26,142443--,2018-08-03
+451,1255,  Meena    ,North,Gujarat    , Hyderabad,Shoes,10,,575163--,2019-04-20
+452,1441,  Ravi! ,West,Tamil Nadu  , Hyderabad,Bag,,,588488--,2022-12-03
+453,1162,  David ,South,Karnataka  , Hyderabad  ,Watch,,,250407!!!,2019-06-14
+454,1276,  Amit.. ,South,Maharashtra    , Mumbai,Bag,10,,328743--,2019-12-02
+455,1799,  Alex.. ,South,Maharashtra  , Hyderabad   ,Shoes,10,1092.77,928458!!!,2024-05-27
+456,1363,  Neha*** ,West,Maharashtra   , Pune  ,Shoes,,,(081880),2023-07-26
+457,1992,  Ravi ,North,Karnataka    , Hyderabad   ,Headphones,,,913751--,2021-06-02
+458,1843,  John*** ,South,Maharashtra    , Chennai  ,Bag,1,,377740!!!,2021-05-06
+459,1360,  Alex ,South,Tamil Nadu   , Bangalore  ,Mobile,,,466043,2020-02-20
+460,1647,  Ravi*** ,South,Maharashtra   , Hyderabad   ,Bag,4,332.75,(568944),2020-01-07
+461,1098,  Priya    ,South,Gujarat   , Kochi  ,Bag,10,1938.85,(086587),2021-03-17
+462,1948,  Amit*** ,West,Maharashtra    , Hyderabad   ,Watch,,,071068--,2018-07-23
+463,1798,  Neha*** ,East,Karnataka  , Mumbai   ,Headphones,,,429649!!!,2018-08-04
+464,1369,  Alex.. ,North,Telangana  , Bangalore,Watch,,1582.3,460615!!!,2024-06-06
+465,1355,  David! ,North,Kerala   , Mumbai   ,Bag,,,557917!!!,2021-06-19
+466,1084,  Amit ,West,Gujarat   , Mumbai  ,Watch,,,116428--,2021-08-02
+467,1555,  Karan    ,West,Maharashtra   , Chennai   ,Headphones,,,499919--,2021-07-22
+468,1891,  Neha ,South,Karnataka   , Bangalore,Laptop,,,801515,2022-11-02
+469,1769,  Ravi.. ,South,Maharashtra  , Mumbai  ,Headphones,,,243255,2020-03-18
+470,1883,  John*** ,East,Tamil Nadu   , Kochi   ,Shoes,,,(653228),2023-05-14
+471,1784,  Sara! ,South,Karnataka    , Pune   ,Watch,,,203658!!!,2021-05-27
+472,1176,  Alex*** ,East,Telangana   , Pune   ,Shoes,,936.08,(441820),2020-01-24
+473,1474,  Karan    ,East,Karnataka  , Pune  ,Headphones,,,771272,2022-01-16
+474,1151,  John*** ,West,Maharashtra  , Mumbai   ,Laptop,,,(273347),2018-08-28
+475,1082,  Neha! ,North,Telangana    , Pune   ,Laptop,,,158546--,2020-08-05
+476,1604,  John.. ,West,Maharashtra   , Kochi   ,Laptop,2,496.42,423303!!!,2024-04-07
+477,1101,  Meena    ,North,Tamil Nadu    , Mumbai   ,Mobile,,255.29,544106--,2024-09-15
+478,1873,  John*** ,South,Maharashtra   , Kochi  ,Shoes,,,443520,2019-10-09
+479,1401,  Alex.. ,South,Telangana    , Pune  ,Laptop,9,,225187,2022-10-03
+480,1693,  Priya.. ,South,Gujarat  , Bangalore   ,Bag,2,1832.1,009196--,2020-04-11
+481,1388,  David! ,South,Gujarat  , Pune   ,Watch,,1009.89,306784,2020-10-14
+482,1093,  Alex    ,South,Tamil Nadu    , Chennai   ,Shoes,,,771051!!!,2019-08-22
+483,1148,  Alex ,East,Telangana    , Mumbai  ,Bag,3,,664522,2023-01-23
+484,1076,  David    ,North,Maharashtra   , Pune,Watch,,1545.44,294299,2022-10-14
+485,1820,  Priya ,East,Tamil Nadu  , Chennai   ,Headphones,4,,867972!!!,2020-05-16
+486,1524,  Alex.. ,North,Gujarat  , Pune   ,Bag,,,168261,2021-04-13
+487,1618,  Priya    ,North,Karnataka  , Pune   ,Headphones,,836.56,920414--,2020-01-14
+488,1944,  Neha ,South,Tamil Nadu  , Chennai,Watch,7,,683009,2021-04-25
+489,1528,  Neha.. ,North,Tamil Nadu   , Bangalore   ,Laptop,9,1748.66,(738053),2024-10-05
+490,1091,  Amit*** ,North,Maharashtra  , Kochi  ,Bag,,788.83,451319,2024-12-18
+491,1830,  Priya    ,East,Kerala   , Pune   ,Headphones,,530.63,538006,2018-09-02
+492,1859,  John ,North,Telangana    , Bangalore  ,Laptop,,,664945--,2020-12-13
+493,1969,  Karan.. ,West,Karnataka   , Mumbai   ,Bag,6,,845962!!!,2023-09-05
+494,1264,  Alex! ,East,Karnataka  , Mumbai,Mobile,,,429415,2019-03-03
+495,1518,  John.. ,North,Kerala  , Mumbai  ,Watch,,,046813,2019-01-20
+496,1798,  Ravi ,West,Kerala  , Chennai   ,Bag,,,308662--,2018-03-11
+497,1272,  Priya*** ,South,Tamil Nadu  , Hyderabad,Laptop,7,,292518--,2019-04-23
+498,1736,  Alex! ,West,Telangana   , Pune  ,Laptop,7,,120510!!!,2019-11-11
+499,1590,  Meena    ,North,Telangana   , Pune  ,Bag,9,,(508456),2019-11-14
+500,1528,  David! ,East,Maharashtra   , Chennai   ,Bag,8,,725561!!!,2021-12-09
+501,1363,  Priya    ,North,Tamil Nadu    , Chennai  ,Laptop,,,(609449),2024-12-17
+502,1742,  Amit    ,North,Tamil Nadu   , Bangalore   ,Shoes,,,(658505),2024-05-28
+503,1899,  Ravi! ,West,Tamil Nadu  , Pune,Mobile,10,,817098,2018-10-19
+504,1272,  Amit ,East,Telangana    , Bangalore   ,Headphones,8,,448371--,2022-10-11
+505,1277,  Amit ,West,Maharashtra    , Hyderabad   ,Watch,,,290716--,2019-09-13
+506,1949,  Sara    ,West,Kerala    , Hyderabad  ,Headphones,9,193.26,246010!!!,2021-10-20
+507,1853,  John.. ,South,Gujarat   , Kochi,Shoes,,,(664914),2019-07-17
+508,1051,  Sara.. ,South,Kerala  , Pune   ,Bag,,,569098,2024-06-20
+509,1748,  Karan.. ,West,Telangana   , Bangalore,Shoes,,,078519--,2023-12-19
+510,1686,  Meena.. ,West,Maharashtra  , Pune  ,Headphones,3,,(916737),2020-07-06
+511,1621,  Priya    ,West,Tamil Nadu  , Pune   ,Bag,,,798149!!!,2022-06-06
+512,1980,  Alex    ,East,Telangana   , Mumbai  ,Watch,,,090540--,2022-04-28
+513,1048,  John.. ,West,Karnataka   , Chennai   ,Mobile,8,991.97,933348,2024-12-28
+514,1168,  Ravi! ,East,Karnataka   , Chennai   ,Watch,,,979797,2021-08-28
+515,1162,  Neha! ,East,Telangana  , Bangalore   ,Laptop,,1282.71,093443!!!,2024-01-06
+516,1463,  Alex ,South,Telangana   , Bangalore  ,Mobile,,356.69,467642,2018-03-08
+517,1778,  Priya! ,East,Maharashtra    , Chennai  ,Mobile,,1478.6,044918!!!,2018-01-09
+518,1244,  Alex ,South,Karnataka    , Bangalore,Laptop,,1487.91,220201,2019-12-08
+519,1132,  Meena*** ,South,Kerala   , Mumbai   ,Watch,,872.18,470032!!!,2022-06-25
+520,1777,  Priya.. ,East,Kerala  , Mumbai   ,Watch,,,349345,2024-02-24
+521,1173,  Ravi.. ,South,Kerala   , Chennai   ,Mobile,,801.9,(198960),2022-05-10
+522,1792,  Amit*** ,South,Gujarat  , Bangalore   ,Shoes,3,256.33,543342!!!,2021-06-08
+523,1231,  Karan    ,West,Karnataka    , Chennai,Headphones,,,768102,2019-02-15
+524,1245,  Karan ,North,Karnataka    , Kochi,Mobile,,,556639--,2018-07-17
+525,1495,  Karan*** ,North,Telangana  , Mumbai,Shoes,,504.45,680779!!!,2021-11-07
+526,1794,  Ravi.. ,North,Tamil Nadu  , Bangalore  ,Bag,5,,998719--,2019-01-23
+527,1712,  Neha*** ,North,Telangana  , Kochi,Headphones,9,349.14,282629--,2022-01-07
+528,1509,  Ravi*** ,North,Karnataka    , Mumbai   ,Bag,,659.7,(806748),2021-05-13
+529,1514,  Alex.. ,South,Karnataka  , Mumbai,Bag,,,136300--,2023-12-06
+530,1607,  Neha.. ,West,Telangana   , Mumbai   ,Watch,,1298.75,(463270),2022-08-17
+531,1617,  Priya ,West,Tamil Nadu   , Chennai   ,Watch,6,1302.33,(546579),2022-09-26
+532,1980,  David    ,West,Maharashtra  , Mumbai  ,Headphones,10,,299370,2020-12-16
+533,1834,  Karan! ,South,Karnataka   , Pune  ,Bag,8,,300562!!!,2023-05-26
+534,1956,  Neha.. ,East,Maharashtra  , Chennai   ,Mobile,,,713472!!!,2024-12-05
+535,1682,  Alex    ,North,Tamil Nadu  , Pune  ,Bag,,537.21,(026714),2019-04-26
+536,1930,  John ,North,Telangana    , Bangalore   ,Laptop,,1538.65,691045--,2021-01-19
+537,1575,  Meena ,East,Gujarat  , Hyderabad   ,Bag,,,518112,2020-02-13
+538,1564,  Priya*** ,West,Karnataka  , Kochi  ,Laptop,,,(111296),2024-09-04
+539,1434,  Sara ,West,Telangana   , Kochi,Mobile,9,1629.34,267599,2019-02-05
+540,1016,  Amit! ,North,Telangana  , Kochi,Shoes,,,(493746),2019-07-28
+541,1163,  Meena ,West,Kerala  , Bangalore  ,Watch,6,1721.59,322735--,2018-12-27
+542,1793,  Ravi.. ,South,Kerala  , Kochi,Bag,,,(488445),2020-10-21
+543,1978,  John    ,West,Kerala  , Chennai,Mobile,,,709845--,2022-11-12
+544,1382,  Sara.. ,West,Tamil Nadu    , Kochi  ,Laptop,,,469387!!!,2019-10-02
+545,1879,  Priya ,West,Telangana    , Hyderabad   ,Bag,,,(752825),2021-06-20
+546,1227,  Priya*** ,North,Tamil Nadu  , Pune,Headphones,2,,(308350),2021-07-16
+547,1761,  Ravi*** ,South,Telangana   , Chennai,Laptop,4,767.04,470597,2022-12-14
+548,1129,  Neha ,West,Karnataka    , Chennai,Laptop,,,(310631),2020-07-03
+549,1331,  Karan! ,West,Karnataka  , Bangalore,Shoes,2,1562.29,865839--,2023-11-23
+550,1805,  John*** ,North,Karnataka  , Kochi,Laptop,4,150.22,327082--,2023-04-25
+551,1948,  Ravi*** ,South,Kerala    , Bangalore,Headphones,,,007563--,2024-10-26
+552,1215,  Sara.. ,North,Gujarat   , Pune   ,Watch,4,,855316!!!,2023-11-16
+553,1439,  Amit ,North,Telangana  , Chennai  ,Laptop,,,(141127),2021-10-20
+554,1094,  John    ,East,Tamil Nadu    , Hyderabad   ,Shoes,,,302425!!!,2023-02-11
+555,1957,  Sara ,South,Karnataka    , Mumbai   ,Shoes,,,719179--,2019-08-10
+556,1319,  David! ,West,Tamil Nadu   , Bangalore   ,Watch,,330.45,614532--,2020-10-16
+557,1852,  Amit! ,East,Karnataka  , Chennai  ,Bag,,,777686!!!,2022-02-19
+558,1235,  Amit*** ,North,Karnataka  , Kochi   ,Mobile,,,492271--,2023-02-23
+559,1693,  Meena! ,North,Tamil Nadu  , Chennai,Shoes,,,435179--,2023-07-27
+560,1488,  Meena ,East,Karnataka    , Mumbai,Bag,4,550.94,197222,2021-02-26
+561,1429,  Karan ,East,Kerala    , Chennai,Mobile,,,170526--,2023-01-28
+562,1497,  Sara ,West,Tamil Nadu   , Hyderabad  ,Watch,,957.41,141071!!!,2020-12-02
+563,1642,  John    ,South,Karnataka  , Chennai  ,Bag,10,,209690,2021-10-26
+564,1047,  Priya*** ,South,Kerala    , Pune,Mobile,,,138541,2024-04-11
+565,1247,  Priya.. ,West,Kerala   , Hyderabad   ,Shoes,,,723446!!!,2018-07-02
+566,1526,  Alex.. ,North,Maharashtra   , Kochi   ,Mobile,,,084660--,2021-01-03
+567,1005,  Meena*** ,North,Karnataka   , Hyderabad   ,Shoes,,,176652!!!,2024-08-06
+568,1542,  Amit ,West,Maharashtra    , Bangalore,Shoes,,634.55,698095!!!,2022-03-02
+569,1319,  Sara    ,West,Tamil Nadu   , Pune   ,Shoes,,,688545!!!,2024-07-07
+570,1309,  Ravi! ,West,Karnataka   , Bangalore,Watch,5,,306353--,2021-05-28
+571,1063,  Priya*** ,South,Kerala  , Mumbai  ,Watch,,,915328--,2024-11-12
+572,1168,  Ravi.. ,South,Telangana  , Bangalore,Mobile,,,823084--,2024-07-25
+573,1521,  Sara ,East,Gujarat    , Bangalore,Headphones,2,,(291281),2024-01-04
+574,1595,  Neha*** ,East,Kerala  , Pune   ,Mobile,7,,883990,2023-03-23
+575,1848,  Ravi*** ,North,Karnataka    , Pune  ,Shoes,5,,235123!!!,2020-02-15
+576,1868,  David    ,North,Kerala    , Bangalore,Laptop,,,614744--,2021-08-25
+577,1727,  Ravi.. ,South,Karnataka  , Chennai  ,Watch,,,374723!!!,2023-09-11
+578,1664,  David ,North,Telangana   , Mumbai   ,Mobile,4,234.91,012243--,2023-05-03
+579,1699,  Alex! ,North,Gujarat    , Pune   ,Bag,,734.98,545330--,2021-09-13
+580,1680,  Meena ,East,Kerala   , Kochi   ,Watch,5,,545533,2023-09-20
+581,1773,  Ravi.. ,North,Gujarat    , Hyderabad  ,Watch,,1555.77,(453695),2024-12-11
+582,1035,  Amit*** ,West,Kerala  , Hyderabad,Shoes,,1478.31,(348573),2019-10-24
+583,1416,  Karan*** ,East,Telangana  , Bangalore  ,Bag,,,926237,2019-02-26
+584,1370,  Meena.. ,West,Tamil Nadu    , Hyderabad   ,Mobile,8,,707669,2022-05-03
+585,1023,  Alex.. ,East,Telangana   , Chennai,Headphones,4,1995.25,762033--,2023-05-21
+586,1874,  Ravi! ,South,Karnataka    , Chennai   ,Laptop,,,779256--,2019-04-12
+587,1605,  Alex*** ,North,Kerala  , Mumbai  ,Laptop,,,347658!!!,2024-12-21
+588,1447,  Alex.. ,North,Gujarat  , Kochi   ,Laptop,,,(994194),2022-09-08
+589,1304,  Amit.. ,West,Telangana  , Kochi  ,Bag,,,803879--,2021-03-03
+590,1079,  Amit.. ,South,Tamil Nadu  , Mumbai,Bag,,315.03,(180539),2020-04-26
+591,1986,  Neha.. ,West,Tamil Nadu  , Hyderabad  ,Laptop,,,901502,2020-02-05
+592,1216,  John    ,North,Tamil Nadu    , Kochi  ,Watch,,770.84,662560--,2024-01-09
+593,1899,  Ravi.. ,West,Telangana   , Kochi  ,Mobile,,,751837!!!,2024-07-16
+594,1368,  Neha.. ,West,Tamil Nadu  , Kochi  ,Bag,3,1161.79,(437153),2018-05-12
+595,1567,  Meena! ,South,Tamil Nadu    , Bangalore   ,Laptop,,915.11,132854!!!,2021-05-23
+596,1856,  Karan! ,South,Karnataka   , Pune  ,Laptop,,,319172,2022-11-26
+597,1337,  Karan ,South,Maharashtra  , Chennai,Laptop,,,(487373),2020-01-28
+598,1164,  Priya! ,North,Kerala    , Mumbai  ,Mobile,5,986.25,017373--,2020-12-03
+599,1185,  Karan! ,South,Tamil Nadu  , Mumbai  ,Bag,1,,246242!!!,2020-06-19
+600,1694,  John! ,East,Maharashtra    , Kochi  ,Bag,,,957220!!!,2020-06-04
+601,1601,  Amit    ,North,Gujarat    , Kochi   ,Laptop,1,454.58,664763--,2019-07-03
+602,1720,  John*** ,East,Tamil Nadu  , Hyderabad   ,Laptop,,,702870!!!,2024-06-22
+603,1731,  David! ,South,Tamil Nadu   , Mumbai,Mobile,,1487.43,149846!!!,2020-01-05
+604,1816,  David.. ,South,Karnataka  , Bangalore,Mobile,,529.21,004014--,2022-05-02
+605,1976,  Meena ,East,Karnataka  , Mumbai   ,Laptop,,,039147!!!,2020-08-08
+606,1531,  Meena*** ,North,Maharashtra  , Kochi  ,Headphones,,,456867!!!,2022-03-07
+607,1077,  Neha.. ,South,Karnataka    , Hyderabad,Laptop,,1365.4,700206,2021-06-08
+608,1409,  Amit*** ,North,Kerala   , Kochi,Mobile,,1429.77,938918!!!,2021-01-12
+609,1883,  Sara.. ,North,Tamil Nadu   , Kochi,Headphones,,,131357!!!,2023-10-19
+610,1382,  David! ,South,Telangana  , Mumbai,Mobile,,,307689!!!,2020-02-18
+611,1359,  Meena*** ,West,Kerala    , Chennai   ,Headphones,2,,384333,2024-08-14
+612,1251,  John ,East,Maharashtra    , Chennai   ,Headphones,3,,863043,2024-05-07
+613,1263,  John! ,West,Tamil Nadu    , Kochi   ,Shoes,,,(159840),2024-02-02
+614,1032,  Karan.. ,West,Karnataka   , Bangalore,Shoes,,159.4,899423--,2021-12-09
+615,1606,  Karan! ,West,Gujarat    , Kochi,Headphones,,,647867!!!,2021-07-11
+616,1996,  John*** ,South,Kerala  , Kochi  ,Watch,,803.32,(005423),2022-02-19
+617,1817,  Meena*** ,East,Kerala   , Mumbai  ,Headphones,8,,014507!!!,2018-03-20
+618,1310,  John! ,East,Gujarat    , Hyderabad  ,Bag,,,663615!!!,2019-11-07
+619,1056,  John*** ,East,Karnataka   , Chennai,Shoes,,,716531,2020-02-24
+620,1429,  Amit    ,West,Karnataka    , Pune,Laptop,,,931327!!!,2021-07-02
+621,1994,  Meena.. ,North,Gujarat    , Mumbai  ,Mobile,1,,(591745),2019-11-06
+622,1591,  Neha    ,East,Karnataka  , Chennai  ,Bag,,,853882,2020-03-17
+623,1882,  Ravi*** ,East,Maharashtra    , Pune,Shoes,,1637.28,(265017),2020-08-06
+624,1538,  Karan*** ,West,Gujarat    , Pune  ,Watch,,231.26,494664!!!,2021-10-16
+625,1739,  Meena! ,East,Kerala  , Bangalore   ,Bag,,,569222,2023-11-19
+626,1054,  Amit! ,South,Karnataka   , Kochi,Watch,10,,478716,2023-11-09
+627,1291,  Priya! ,East,Tamil Nadu   , Kochi,Shoes,10,,144393--,2019-10-04
+628,1513,  John*** ,North,Telangana  , Hyderabad   ,Laptop,,104.74,119034,2024-04-18
+629,1525,  Amit    ,West,Tamil Nadu   , Chennai   ,Laptop,,603.74,791270!!!,2023-05-19
+630,1128,  Amit! ,North,Maharashtra   , Hyderabad   ,Shoes,,1406.64,844487!!!,2024-05-13
+631,1637,  Karan ,West,Telangana    , Bangalore,Laptop,,1699.4,070003,2021-04-20
+632,1269,  Neha ,South,Telangana    , Pune,Bag,,,908397,2018-04-14
+633,1411,  David    ,East,Tamil Nadu  , Pune   ,Mobile,,615.2,133788--,2020-01-12
+634,1178,  Meena*** ,North,Gujarat    , Pune  ,Shoes,,958.72,(297030),2024-10-22
+635,1924,  Ravi*** ,West,Telangana  , Mumbai   ,Shoes,5,604.62,(403814),2023-06-01
+636,1781,  Alex.. ,East,Maharashtra    , Chennai,Bag,,,271360--,2019-06-15
+637,1657,  Ravi    ,East,Kerala   , Hyderabad   ,Watch,,,574274--,2019-08-16
+638,1146,  Ravi*** ,South,Karnataka    , Kochi,Bag,,,763646,2019-09-05
+639,1915,  David.. ,West,Maharashtra  , Pune,Mobile,,,000525!!!,2021-08-08
+640,1988,  Neha    ,South,Gujarat  , Pune  ,Mobile,,,103304!!!,2023-01-06
+641,1376,  Meena! ,East,Telangana    , Bangalore,Laptop,5,,060252!!!,2024-10-07
+642,1130,  Karan.. ,West,Tamil Nadu    , Chennai   ,Shoes,1,,868332!!!,2024-04-25
+643,1421,  David.. ,North,Gujarat  , Pune   ,Bag,,,765008,2021-10-12
+644,1122,  Neha ,South,Tamil Nadu   , Kochi   ,Headphones,1,1259.92,929784--,2021-07-27
+645,1778,  Sara ,North,Gujarat    , Kochi,Watch,9,,000898!!!,2018-08-10
+646,1046,  John*** ,South,Karnataka    , Pune,Mobile,,,071946--,2024-06-13
+647,1364,  Alex*** ,East,Kerala   , Mumbai   ,Mobile,,,892746,2020-12-27
+648,1352,  Meena.. ,East,Telangana  , Chennai   ,Bag,,,(407825),2021-08-05
+649,1211,  Karan.. ,East,Tamil Nadu  , Bangalore  ,Laptop,,1307.42,093375--,2024-05-24
+650,1435,  Priya ,South,Telangana    , Pune   ,Headphones,,,096693!!!,2023-06-09
+651,1354,  Ravi*** ,North,Telangana    , Bangalore   ,Mobile,,,804693!!!,2020-04-21
+652,1058,  Amit    ,East,Tamil Nadu    , Hyderabad   ,Headphones,,731.91,130814--,2018-07-16
+653,1329,  Meena ,West,Telangana    , Chennai   ,Shoes,,973.34,332871,2019-11-09
+654,1074,  Alex    ,West,Tamil Nadu  , Chennai   ,Headphones,,783.09,995349!!!,2020-04-03
+655,1637,  Ravi    ,East,Gujarat    , Chennai,Headphones,,,595665--,2024-12-20
+656,1762,  Alex.. ,North,Kerala  , Kochi,Bag,8,,172723,2022-11-18
+657,1216,  Priya*** ,West,Tamil Nadu  , Bangalore,Laptop,,,(923358),2022-01-04
+658,1428,  Alex! ,West,Kerala    , Mumbai   ,Shoes,,356.94,896150--,2021-05-02
+659,1295,  Ravi*** ,East,Gujarat   , Kochi   ,Headphones,1,,533555!!!,2019-05-24
+660,1657,  Neha*** ,West,Telangana    , Mumbai,Headphones,5,,004210--,2020-01-10
+661,1465,  Meena.. ,North,Telangana   , Chennai,Headphones,,,083725!!!,2024-01-12
+662,1064,  Sara*** ,North,Telangana  , Chennai  ,Mobile,,289.32,629877--,2022-02-20
+663,1090,  Alex    ,West,Kerala    , Bangalore,Laptop,,,(546164),2021-06-18
+664,1200,  Sara ,West,Karnataka  , Chennai  ,Laptop,6,,768258--,2023-04-27
+665,1790,  Meena! ,North,Gujarat   , Bangalore,Headphones,,,200943,2023-08-02
+666,1930,  Alex ,West,Telangana   , Mumbai  ,Mobile,5,,961672--,2018-04-02
+667,1587,  Sara.. ,South,Tamil Nadu   , Chennai,Headphones,,,128577!!!,2020-08-17
+668,1590,  Amit! ,West,Kerala  , Hyderabad,Watch,7,348.6,218914,2023-07-05
+669,1145,  Priya! ,East,Karnataka  , Chennai   ,Laptop,,,103011!!!,2019-06-05
+670,1810,  Priya! ,East,Gujarat  , Pune,Headphones,4,1124.0,563314!!!,2021-10-17
+671,1608,  David ,South,Maharashtra   , Chennai,Headphones,,,898883--,2019-01-19
+672,1123,  John    ,West,Telangana    , Mumbai   ,Bag,,,134686!!!,2019-09-16
+673,1944,  Alex*** ,North,Gujarat  , Bangalore,Mobile,,1608.49,468272!!!,2024-08-11
+674,1052,  Priya.. ,South,Karnataka    , Pune   ,Mobile,1,,(518393),2021-07-23
+675,1308,  David    ,West,Tamil Nadu   , Chennai  ,Laptop,9,921.89,153009--,2022-04-12
+676,1768,  Alex*** ,East,Karnataka   , Mumbai   ,Watch,,654.0,209385!!!,2023-06-28
+677,1741,  Meena! ,North,Maharashtra   , Kochi  ,Shoes,,,439291--,2020-06-09
+678,1752,  Amit ,North,Karnataka   , Chennai   ,Watch,,,011407!!!,2022-07-22
+679,1303,  Priya.. ,East,Gujarat   , Kochi  ,Bag,,,635813--,2023-03-07
+680,1320,  Priya.. ,East,Tamil Nadu   , Chennai  ,Shoes,,1924.2,946983!!!,2023-07-21
+681,1738,  Neha    ,South,Gujarat  , Mumbai,Headphones,,,068395!!!,2019-08-27
+682,1649,  Priya.. ,East,Kerala   , Chennai,Headphones,,,805414!!!,2020-11-20
+683,1698,  Karan*** ,South,Maharashtra   , Chennai,Watch,,,164074!!!,2022-07-24
+684,1980,  Ravi ,West,Kerala    , Kochi   ,Mobile,1,,711685--,2020-09-14
+685,1665,  David*** ,East,Maharashtra   , Kochi   ,Watch,,,(916014),2020-03-07
+686,1676,  Priya! ,South,Tamil Nadu   , Hyderabad   ,Watch,,,(756747),2024-07-12
+687,1370,  David    ,East,Kerala  , Pune   ,Shoes,9,,(087305),2023-11-20
+688,1019,  Ravi    ,South,Tamil Nadu   , Bangalore  ,Headphones,,1763.3,656443!!!,2019-06-06
+689,1885,  Sara*** ,West,Tamil Nadu   , Hyderabad  ,Shoes,,1858.28,492842,2023-06-13
+690,1568,  John! ,East,Kerala    , Mumbai,Bag,5,,500094!!!,2021-01-18
+691,1376,  David    ,West,Tamil Nadu    , Pune   ,Bag,,1694.87,773909--,2023-03-02
+692,1934,  Alex ,South,Gujarat    , Chennai  ,Mobile,,,804343--,2023-10-12
+693,1402,  Meena    ,East,Telangana    , Mumbai   ,Shoes,5,,(224236),2019-11-14
+694,1375,  John ,South,Karnataka    , Kochi   ,Shoes,,,(219009),2024-07-02
+695,1424,  Ravi ,North,Karnataka    , Bangalore,Bag,,,(170694),2021-11-02
+696,1107,  Priya.. ,East,Telangana  , Mumbai,Watch,,,848450--,2018-04-19
+697,1080,  Sara! ,West,Telangana    , Hyderabad   ,Bag,,,(378788),2021-10-01
+698,1942,  Ravi.. ,North,Kerala    , Bangalore  ,Watch,6,,928129--,2024-03-26
+699,1987,  Ravi    ,West,Karnataka   , Mumbai   ,Shoes,,,785625!!!,2020-10-13
+700,1099,  Amit    ,South,Tamil Nadu    , Bangalore  ,Headphones,2,,687746!!!,2021-12-18
+701,1596,  Karan*** ,North,Kerala    , Mumbai  ,Headphones,,,752894,2023-11-14
+702,1694,  Sara.. ,South,Karnataka  , Bangalore  ,Headphones,,,496051!!!,2024-04-26
+703,1417,  Neha    ,North,Telangana  , Chennai,Laptop,8,,603584!!!,2019-06-19
+704,1329,  Meena    ,West,Tamil Nadu   , Bangalore  ,Mobile,,,937984,2020-05-26
+705,1768,  Sara    ,North,Telangana  , Bangalore   ,Bag,,,453100,2022-04-06
+706,1667,  Ravi.. ,North,Tamil Nadu   , Kochi   ,Watch,,,979356--,2020-03-08
+707,1801,  Karan ,South,Gujarat  , Bangalore  ,Watch,,,170757!!!,2022-01-16
+708,1542,  Ravi ,East,Maharashtra  , Kochi,Mobile,,409.69,(311141),2018-11-23
+709,1801,  Ravi! ,West,Tamil Nadu  , Pune   ,Shoes,,,889442,2021-11-28
+710,1116,  Neha.. ,North,Tamil Nadu    , Mumbai  ,Mobile,,722.05,211300--,2024-09-27
+711,1083,  John! ,North,Gujarat   , Chennai  ,Shoes,9,,046946!!!,2023-12-04
+712,1384,  Amit*** ,West,Tamil Nadu    , Kochi   ,Bag,3,,408539--,2021-02-12
+713,1900,  David    ,West,Kerala  , Chennai   ,Headphones,2,,254180--,2024-02-16
+714,1434,  Priya! ,West,Telangana  , Chennai   ,Headphones,10,,(219972),2021-08-06
+715,1678,  John*** ,North,Telangana  , Mumbai  ,Bag,,,990182--,2018-05-26
+716,1234,  Karan    ,North,Gujarat    , Chennai   ,Shoes,,,308659--,2024-08-27
+717,1225,  Alex.. ,North,Kerala   , Chennai,Laptop,,1532.55,869788--,2019-10-14
+718,1935,  Priya    ,North,Karnataka  , Pune,Watch,,,457243--,2024-07-23
+719,1416,  Ravi! ,North,Telangana   , Mumbai   ,Bag,,,043451,2018-02-19
+720,1821,  John ,North,Kerala  , Bangalore,Bag,,,980925!!!,2019-04-05
+721,1842,  Alex ,West,Gujarat    , Hyderabad  ,Headphones,,,(353328),2021-01-21
+722,1324,  Neha    ,West,Tamil Nadu  , Hyderabad,Laptop,,297.61,252005--,2020-05-20
+723,1287,  Neha! ,South,Kerala  , Chennai,Watch,10,,(953114),2023-12-03
+724,1574,  Karan    ,North,Gujarat  , Bangalore,Shoes,,,852142,2021-05-12
+725,1696,  David    ,South,Gujarat    , Hyderabad   ,Bag,,,(885724),2022-08-19
+726,1633,  John.. ,South,Telangana   , Hyderabad,Bag,,1709.1,203381,2021-06-25
+727,1980,  Meena.. ,North,Tamil Nadu   , Mumbai  ,Laptop,1,,(203970),2019-12-25
+728,1032,  David*** ,West,Gujarat    , Pune,Watch,,1816.92,(899179),2021-04-28
+729,1226,  Alex.. ,East,Telangana    , Pune   ,Shoes,,,203866--,2018-06-15
+730,1416,  Amit! ,West,Tamil Nadu    , Hyderabad  ,Headphones,,,471489!!!,2019-12-23
+731,1343,  Karan ,West,Telangana    , Chennai,Bag,,1852.55,603408,2023-07-24
+732,1549,  Alex.. ,North,Telangana    , Pune,Bag,,590.99,145263!!!,2019-08-16
+733,1129,  Karan    ,East,Maharashtra  , Hyderabad,Watch,3,,798456,2024-05-05
+734,1929,  Amit ,East,Gujarat   , Hyderabad   ,Mobile,,,827864,2024-12-10
+735,1019,  Sara ,North,Tamil Nadu    , Bangalore,Mobile,1,,614250--,2019-02-20
+736,1341,  Sara.. ,South,Telangana   , Pune,Mobile,,,344128!!!,2018-01-03
+737,1293,  David*** ,South,Telangana    , Hyderabad  ,Bag,,,800176!!!,2019-01-24
+738,1259,  Neha! ,West,Kerala    , Chennai,Watch,9,,375629--,2023-05-01
+739,1679,  Meena*** ,South,Karnataka   , Hyderabad,Mobile,8,335.08,904141!!!,2020-05-25
+740,1015,  David! ,West,Gujarat   , Kochi  ,Mobile,,,778842!!!,2021-03-04
+741,1820,  Karan ,North,Gujarat    , Chennai,Bag,,470.15,806243!!!,2022-04-22
+742,1921,  David! ,South,Gujarat   , Hyderabad,Laptop,,1423.43,(594201),2019-08-01
+743,1569,  Amit ,East,Telangana   , Bangalore   ,Mobile,,1138.9,305781,2020-09-18
+744,1363,  Alex    ,East,Gujarat   , Hyderabad  ,Shoes,,,(610045),2021-11-08
+745,1912,  John*** ,West,Telangana    , Bangalore,Headphones,8,,(795935),2023-03-20
+746,1081,  Neha*** ,West,Kerala    , Hyderabad,Watch,2,,384839,2018-09-02
+747,1052,  Karan ,East,Maharashtra  , Chennai   ,Bag,8,,804598!!!,2020-10-03
+748,1405,  Meena*** ,South,Telangana    , Chennai  ,Laptop,,,299019!!!,2018-05-28
+749,1429,  Neha! ,South,Gujarat    , Bangalore,Laptop,,,927345!!!,2024-11-16
+750,1265,  Meena! ,North,Karnataka   , Hyderabad  ,Laptop,1,,593369--,2024-02-10
+751,1027,  John*** ,North,Karnataka    , Chennai,Laptop,,1276.44,(207958),2020-03-05
+752,1676,  Sara    ,North,Gujarat  , Kochi,Shoes,5,,121703!!!,2024-11-08
+753,1616,  Alex ,West,Telangana    , Kochi,Shoes,,,490067!!!,2019-10-28
+754,1855,  Priya.. ,South,Telangana   , Pune  ,Shoes,8,1946.97,463271--,2020-07-25
+755,1493,  Sara.. ,East,Kerala    , Chennai   ,Laptop,2,,625188!!!,2024-05-11
+756,1853,  Priya*** ,West,Gujarat  , Kochi,Mobile,,,969559!!!,2024-11-11
+757,1024,  Ravi! ,South,Gujarat   , Chennai  ,Shoes,9,,(430710),2020-12-01
+758,1661,  Ravi ,North,Kerala  , Mumbai,Headphones,8,1865.04,789381!!!,2020-07-24
+759,1649,  Priya! ,South,Gujarat  , Pune   ,Mobile,1,,(405821),2021-12-27
+760,1597,  Alex! ,North,Gujarat    , Bangalore,Laptop,9,,(161475),2024-04-08
+761,1112,  Neha! ,North,Telangana  , Chennai  ,Bag,,,483257,2024-02-03
+762,1502,  Ravi ,East,Maharashtra  , Bangalore,Mobile,,1209.79,138016--,2021-10-02
+763,1822,  Amit.. ,East,Karnataka  , Kochi,Headphones,,,(352651),2019-07-02
+764,1724,  Sara! ,North,Kerala    , Pune,Watch,1,,594260!!!,2021-02-06
+765,1079,  Sara ,East,Telangana   , Kochi  ,Mobile,9,,(310271),2023-01-12
+766,1555,  Meena.. ,East,Telangana  , Chennai,Bag,10,776.14,437689!!!,2023-11-22
+767,1781,  Priya    ,North,Maharashtra  , Kochi  ,Watch,,1867.38,808632--,2020-07-22
+768,1928,  Sara.. ,South,Telangana  , Kochi  ,Watch,,,172527!!!,2021-07-12
+769,1833,  David.. ,North,Maharashtra  , Mumbai  ,Headphones,4,,964821--,2021-05-26
+770,1478,  Amit.. ,South,Tamil Nadu    , Pune,Bag,,1356.6,477943,2021-04-12
+771,1243,  Meena    ,North,Karnataka  , Pune   ,Bag,,,(843677),2018-09-04
+772,1184,  Sara ,West,Telangana  , Hyderabad,Shoes,,1021.02,094114,2024-02-13
+773,1782,  Alex! ,East,Tamil Nadu   , Mumbai  ,Mobile,,,912598,2020-05-28
+774,1615,  Sara! ,West,Maharashtra  , Bangalore   ,Bag,8,,390193!!!,2018-07-16
+775,1159,  David ,South,Maharashtra    , Mumbai  ,Watch,,1667.12,850332,2022-11-08
+776,1438,  Sara! ,West,Telangana   , Kochi   ,Headphones,9,,849338,2021-06-17
+777,1021,  John    ,South,Karnataka  , Chennai  ,Mobile,5,,234212!!!,2021-08-08
+778,1174,  Amit ,North,Kerala    , Kochi  ,Laptop,,,555416!!!,2021-12-14
+779,1392,  David*** ,North,Tamil Nadu   , Kochi   ,Mobile,,546.46,122723,2021-08-26
+780,1001,  Meena    ,East,Telangana   , Kochi  ,Watch,,687.98,551209,2020-11-18
+781,1763,  Ravi! ,South,Karnataka   , Chennai   ,Shoes,,911.67,(259008),2019-10-09
+782,1412,  Karan! ,East,Telangana  , Pune,Bag,10,,592322,2019-08-19
+783,1249,  Meena.. ,North,Kerala  , Bangalore   ,Watch,10,,305109--,2022-11-07
+784,1516,  Sara.. ,East,Tamil Nadu  , Kochi   ,Bag,,,520957!!!,2024-06-07
+785,1887,  Meena! ,North,Telangana  , Kochi   ,Laptop,8,,557170,2021-06-01
+786,1754,  Priya! ,West,Maharashtra    , Mumbai,Shoes,,,223264!!!,2019-05-20
+787,1264,  Karan ,West,Tamil Nadu    , Chennai   ,Bag,,,783252--,2023-02-07
+788,1971,  Neha*** ,East,Gujarat  , Pune   ,Bag,7,,556531,2020-01-22
+789,1685,  Amit! ,North,Tamil Nadu    , Chennai  ,Headphones,6,283.0,461679,2021-10-16
+790,1858,  David    ,South,Karnataka  , Hyderabad   ,Laptop,5,,957695--,2019-02-08
+791,1525,  Priya    ,West,Tamil Nadu    , Mumbai  ,Mobile,,,(411638),2024-07-04
+792,1651,  Alex*** ,South,Karnataka  , Pune,Headphones,9,,746487!!!,2024-10-04
+793,1583,  Alex    ,North,Kerala  , Bangalore  ,Laptop,,190.59,(935284),2019-12-27
+794,1458,  Neha*** ,North,Tamil Nadu    , Hyderabad   ,Bag,,,158406,2018-06-16
+795,1802,  Amit    ,West,Maharashtra  , Chennai  ,Bag,,1719.11,(585888),2021-04-12
+796,1359,  Sara    ,South,Gujarat  , Kochi  ,Headphones,,,(694060),2024-09-27
+797,1537,  John! ,East,Tamil Nadu  , Bangalore,Watch,,358.32,(029857),2020-06-26
+798,1326,  Priya*** ,West,Tamil Nadu   , Bangalore   ,Mobile,7,717.99,194966--,2024-09-10
+799,1337,  Amit*** ,East,Telangana  , Pune,Headphones,5,693.19,(270473),2024-07-16
+800,1129,  Meena    ,East,Karnataka    , Bangalore   ,Mobile,,1713.96,671798,2018-03-24
+801,1273,  John*** ,South,Tamil Nadu  , Mumbai,Headphones,,1877.74,(865638),2019-05-04
+802,1905,  David*** ,East,Tamil Nadu    , Bangalore  ,Shoes,,938.05,365227,2020-02-14
+803,1046,  David ,South,Telangana   , Pune,Watch,,,(465277),2019-04-04
+804,1051,  Meena ,West,Maharashtra   , Mumbai  ,Bag,,,361715,2020-06-07
+805,1491,  John.. ,South,Gujarat    , Pune,Mobile,10,646.29,631883,2022-12-26
+806,1986,  David! ,South,Kerala    , Pune,Headphones,9,,494838!!!,2024-08-02
+807,1655,  Ravi ,South,Kerala  , Hyderabad  ,Bag,,,(732173),2019-04-15
+808,1825,  Amit! ,South,Kerala    , Chennai,Headphones,,,414513--,2019-09-05
+809,1219,  Ravi! ,South,Kerala   , Kochi  ,Mobile,10,,(400394),2018-02-05
+810,1911,  Neha    ,North,Karnataka    , Hyderabad  ,Shoes,,,474823--,2020-05-07
+811,1973,  John! ,West,Kerala    , Kochi,Headphones,,,682336--,2019-01-05
+812,1006,  Ravi    ,West,Tamil Nadu  , Chennai,Headphones,1,,667887--,2022-06-13
+813,1732,  Meena*** ,North,Maharashtra  , Pune   ,Watch,,,(448608),2021-06-13
+814,1909,  David.. ,South,Tamil Nadu  , Kochi,Mobile,,,329197,2022-09-20
+815,1279,  Ravi    ,East,Tamil Nadu  , Chennai,Laptop,,,356652,2021-11-26
+816,1826,  Meena.. ,South,Tamil Nadu    , Hyderabad,Headphones,,426.78,364940--,2024-08-12
+817,1118,  Sara.. ,North,Karnataka    , Bangalore   ,Bag,,,537719--,2022-09-10
+818,1439,  David! ,East,Telangana    , Chennai,Laptop,10,,681807,2020-05-21
+819,1050,  Sara! ,West,Kerala   , Bangalore  ,Mobile,,,(494795),2018-01-05
+820,1965,  John*** ,West,Maharashtra  , Mumbai  ,Laptop,,254.9,(828417),2022-10-26
+821,1663,  Priya! ,North,Karnataka    , Bangalore   ,Shoes,,,946755,2022-02-22
+822,1292,  Ravi! ,West,Tamil Nadu   , Hyderabad   ,Shoes,,,(153894),2018-05-13
+823,1346,  Meena ,South,Tamil Nadu    , Mumbai,Laptop,,,358376,2023-05-24
+824,1123,  Sara.. ,South,Karnataka    , Kochi   ,Headphones,,795.35,186398--,2020-07-20
+825,1985,  Neha*** ,East,Tamil Nadu  , Chennai   ,Mobile,7,1724.64,427579,2023-01-04
+826,1997,  Ravi*** ,North,Kerala    , Hyderabad  ,Bag,,1366.67,072111!!!,2023-02-10
+827,1442,  John.. ,East,Telangana    , Bangalore  ,Bag,,,323357--,2023-02-27
+828,1501,  Sara*** ,North,Gujarat   , Mumbai,Headphones,,,(635428),2019-06-23
+829,1153,  Priya! ,South,Gujarat    , Chennai,Watch,,1275.34,101600!!!,2021-10-10
+830,1213,  Ravi    ,East,Telangana  , Bangalore  ,Watch,10,,694604--,2022-12-07
+831,1536,  Meena    ,West,Gujarat  , Hyderabad,Laptop,10,,(718977),2024-03-02
+832,1080,  David.. ,South,Tamil Nadu    , Hyderabad,Bag,6,,(488900),2024-04-03
+833,1582,  Sara ,West,Karnataka    , Hyderabad  ,Shoes,8,,472904--,2021-09-05
+834,1037,  Sara! ,North,Telangana    , Pune   ,Watch,,,(902673),2019-04-09
+835,1165,  Priya ,South,Karnataka  , Kochi,Mobile,2,,936037--,2020-10-11
+836,1716,  Meena! ,West,Tamil Nadu  , Mumbai   ,Mobile,,1794.72,669406!!!,2022-08-12
+837,1481,  Neha.. ,North,Gujarat  , Mumbai   ,Headphones,8,,584430,2023-10-17
+838,1393,  Karan*** ,West,Gujarat   , Pune,Headphones,,,878163!!!,2024-07-21
+839,1349,  Alex*** ,North,Kerala    , Hyderabad,Bag,,,(147073),2018-04-18
+840,1743,  Priya ,South,Telangana   , Mumbai   ,Shoes,3,,553125,2024-10-10
+841,1302,  Karan ,West,Maharashtra  , Mumbai  ,Laptop,,331.15,(171127),2020-07-19
+842,1906,  Meena    ,South,Telangana   , Hyderabad  ,Bag,,,783389!!!,2023-07-03
+843,1772,  Alex.. ,South,Telangana   , Hyderabad,Shoes,,1204.31,(401202),2021-06-17
+844,1304,  Priya! ,West,Karnataka  , Bangalore   ,Headphones,7,,040569,2020-12-01
+845,1443,  Ravi    ,North,Telangana    , Pune,Shoes,,,967695,2019-05-16
+846,1138,  John*** ,West,Tamil Nadu    , Hyderabad  ,Shoes,,184.86,839541!!!,2020-06-22
+847,1833,  John.. ,North,Gujarat   , Hyderabad   ,Headphones,,870.55,345980,2020-02-18
+848,1546,  Sara    ,West,Maharashtra  , Pune   ,Laptop,4,,966175,2020-10-05
+849,1172,  Ravi*** ,South,Telangana   , Hyderabad  ,Bag,,,963178--,2018-05-11
+850,1880,  Priya ,South,Gujarat   , Hyderabad,Shoes,2,,542134,2024-06-11
+851,1082,  Karan*** ,West,Gujarat    , Bangalore   ,Mobile,,,(590409),2021-12-02
+852,2000,  David*** ,South,Maharashtra   , Kochi,Mobile,5,,237808!!!,2024-05-25
+853,1121,  Neha! ,East,Kerala  , Bangalore   ,Laptop,1,1534.98,892182,2024-07-20
+854,1624,  Sara.. ,West,Tamil Nadu    , Mumbai,Watch,7,,490808,2023-01-16
+855,1295,  Neha*** ,North,Tamil Nadu   , Pune   ,Bag,,1299.53,(408073),2023-10-06
+856,1456,  Ravi! ,North,Maharashtra    , Chennai  ,Laptop,,,880656!!!,2019-02-23
+857,1733,  Neha! ,West,Telangana    , Chennai,Bag,,1701.27,764725,2019-12-09
+858,1439,  Amit.. ,North,Maharashtra   , Mumbai   ,Headphones,3,320.77,197589!!!,2020-08-18
+859,1178,  Amit ,West,Gujarat    , Kochi,Bag,3,,384171!!!,2023-08-13
+860,1306,  Neha*** ,East,Maharashtra   , Hyderabad,Shoes,2,,794617,2019-12-08
+861,1223,  Alex.. ,East,Telangana  , Mumbai  ,Watch,,,478216,2019-05-26
+862,1640,  Ravi! ,East,Telangana   , Hyderabad   ,Bag,6,,548033!!!,2021-11-25
+863,1945,  Alex ,North,Kerala  , Mumbai  ,Shoes,,1301.58,295932--,2021-08-10
+864,1877,  John*** ,South,Maharashtra  , Mumbai   ,Shoes,4,,412582,2018-01-16
+865,1635,  Priya! ,South,Telangana    , Bangalore   ,Headphones,1,,878350,2023-02-11
+866,1543,  Alex*** ,South,Kerala   , Hyderabad,Laptop,3,188.8,979428!!!,2023-03-22
+867,1241,  Karan.. ,South,Telangana  , Pune,Headphones,1,,068074--,2022-12-07
+868,1969,  David ,West,Karnataka    , Bangalore   ,Shoes,,,459355!!!,2021-04-15
+869,1142,  Amit! ,South,Kerala  , Pune  ,Shoes,3,,554742,2022-09-02
+870,1397,  Priya*** ,West,Karnataka   , Pune,Mobile,,,596117!!!,2022-05-19
+871,1391,  Alex    ,South,Gujarat  , Mumbai   ,Headphones,,,238394--,2022-11-02
+872,1516,  John ,South,Tamil Nadu   , Hyderabad   ,Shoes,,,(405845),2024-08-14
+873,1884,  John    ,North,Tamil Nadu  , Pune,Laptop,4,,(553086),2022-10-17
+874,1252,  Meena*** ,East,Tamil Nadu   , Chennai   ,Watch,,161.68,002608!!!,2020-09-01
+875,1633,  David ,West,Telangana    , Pune   ,Headphones,8,,934916!!!,2018-10-01
+876,1986,  Meena! ,East,Karnataka    , Kochi,Shoes,5,,303445!!!,2022-12-14
+877,1365,  John    ,East,Maharashtra    , Kochi   ,Laptop,,,057511,2021-01-25
+878,1944,  Priya! ,West,Karnataka   , Hyderabad   ,Shoes,,,063056!!!,2020-02-15
+879,1711,  Meena    ,North,Tamil Nadu    , Chennai  ,Watch,4,,927901--,2018-07-01
+880,1505,  John*** ,South,Tamil Nadu  , Pune,Laptop,,,880033--,2019-03-14
+881,1843,  Sara! ,West,Telangana   , Kochi  ,Headphones,,256.89,784935--,2020-01-19
+882,1225,  Alex*** ,West,Karnataka    , Chennai,Bag,,1576.91,977314--,2022-01-19
+883,1666,  Neha*** ,East,Kerala  , Mumbai  ,Mobile,,,880438,2024-02-20
+884,1847,  Amit    ,North,Telangana   , Bangalore  ,Laptop,5,1785.06,314407--,2021-10-16
+885,1228,  Priya*** ,North,Gujarat   , Mumbai   ,Laptop,5,1521.9,485194,2020-06-10
+886,1537,  Priya*** ,South,Telangana    , Mumbai   ,Watch,,406.63,603070,2019-01-17
+887,1486,  John*** ,East,Kerala   , Pune,Bag,,1184.74,(949320),2020-09-18
+888,1884,  Priya ,West,Maharashtra    , Hyderabad   ,Mobile,,,850065--,2020-04-01
+889,1677,  John    ,East,Gujarat    , Mumbai  ,Mobile,7,,551052--,2019-03-06
+890,1656,  David! ,East,Kerala   , Kochi  ,Headphones,,,178509!!!,2019-11-24
+891,1991,  Amit    ,South,Tamil Nadu    , Bangalore,Mobile,3,,640197!!!,2018-01-10
+892,1918,  Sara.. ,North,Karnataka    , Bangalore,Bag,,,189098--,2018-12-01
+893,1659,  David! ,West,Kerala  , Chennai  ,Bag,4,1893.06,883001,2020-04-18
+894,1916,  Ravi*** ,West,Kerala   , Hyderabad   ,Laptop,,,276597,2021-03-02
+895,1309,  David ,North,Gujarat  , Bangalore  ,Watch,2,,695604!!!,2021-10-15
+896,1347,  Karan.. ,West,Karnataka  , Hyderabad   ,Watch,,,(746758),2019-01-09
+897,1595,  John*** ,North,Kerala  , Hyderabad   ,Watch,4,,742344,2019-10-13
+898,1599,  Meena*** ,East,Maharashtra  , Hyderabad  ,Bag,,737.93,(291667),2024-09-12
+899,1152,  Sara    ,East,Karnataka   , Hyderabad   ,Shoes,,1157.33,439546,2023-12-02
+900,1545,  Ravi! ,North,Gujarat   , Mumbai   ,Laptop,,,937979--,2024-10-04
+901,1548,  Sara! ,North,Telangana  , Kochi  ,Watch,1,,623027,2019-02-11
+902,1208,  David! ,South,Karnataka    , Kochi  ,Mobile,10,656.88,(164299),2024-09-22
+903,1142,  Priya ,East,Tamil Nadu  , Kochi  ,Bag,9,,669189,2020-02-04
+904,1453,  Karan.. ,South,Tamil Nadu  , Mumbai  ,Headphones,3,426.53,920429!!!,2022-08-21
+905,1607,  Neha! ,East,Tamil Nadu   , Kochi,Laptop,,1491.2,809537--,2024-02-16
+906,1973,  Sara ,North,Karnataka   , Kochi   ,Mobile,,,(782949),2022-05-02
+907,1498,  Ravi.. ,South,Kerala    , Chennai,Mobile,,,823113--,2018-07-20
+908,1149,  Meena.. ,North,Tamil Nadu   , Bangalore  ,Laptop,4,,472581--,2019-02-09
+909,1967,  Priya ,West,Telangana    , Kochi   ,Mobile,3,,(988947),2024-09-09
+910,1947,  John! ,South,Gujarat   , Chennai,Headphones,1,,024986--,2023-09-20
+911,1615,  Alex    ,South,Karnataka    , Kochi  ,Headphones,7,990.25,(344562),2024-04-02
+912,1541,  Priya    ,South,Kerala    , Pune,Laptop,,,890124--,2024-12-17
+913,1041,  Karan! ,East,Kerala  , Pune,Bag,4,,399057,2024-02-21
+914,1425,  Priya    ,East,Kerala   , Mumbai,Watch,,1946.43,611401,2023-12-09
+915,1227,  Meena    ,East,Maharashtra    , Chennai  ,Shoes,,,191188!!!,2024-10-08
+916,1112,  Priya! ,East,Gujarat   , Hyderabad,Laptop,,1701.69,116562!!!,2018-06-26
+917,1409,  Karan    ,West,Karnataka    , Chennai   ,Bag,9,1123.52,(369857),2020-12-23
+918,1139,  Priya.. ,South,Karnataka    , Bangalore  ,Mobile,1,1417.91,(303186),2024-11-13
+919,1629,  Ravi*** ,East,Kerala  , Pune   ,Bag,,,489901--,2021-11-28
+920,1563,  Ravi.. ,West,Kerala   , Kochi,Mobile,1,,753306,2023-06-13
+921,1830,  Alex ,East,Kerala  , Hyderabad   ,Mobile,9,,(348864),2021-10-06
+922,1033,  Sara! ,North,Kerala  , Pune,Mobile,,,366074!!!,2018-09-21
+923,1473,  Alex ,East,Tamil Nadu    , Bangalore,Laptop,,,(307183),2018-12-28
+924,1943,  Meena*** ,North,Tamil Nadu  , Kochi,Laptop,,,061592,2024-07-26
+925,1789,  Sara    ,West,Gujarat   , Pune,Bag,,,794507,2023-05-27
+926,1535,  Amit.. ,South,Tamil Nadu    , Kochi  ,Watch,,816.64,601365!!!,2019-05-06
+927,1392,  Neha*** ,South,Tamil Nadu    , Kochi  ,Bag,5,,338427,2019-07-14
+928,1194,  Sara*** ,East,Maharashtra  , Pune  ,Mobile,,960.2,(244007),2019-01-09
+929,1039,  Karan.. ,East,Karnataka   , Hyderabad   ,Laptop,,,(942687),2020-09-12
+930,1806,  Karan*** ,West,Telangana    , Mumbai  ,Mobile,,,819566!!!,2022-06-25
+931,1262,  Ravi.. ,West,Karnataka   , Chennai   ,Headphones,,,980289--,2023-02-20
+932,1606,  Neha    ,South,Maharashtra    , Pune   ,Watch,,,445253,2023-04-20
+933,1988,  David*** ,West,Maharashtra    , Kochi  ,Headphones,1,1087.34,877760,2024-02-17
+934,1211,  Neha*** ,North,Karnataka  , Mumbai,Watch,,,(136907),2021-03-18
+935,1788,  Meena ,North,Maharashtra  , Bangalore   ,Shoes,7,,204410,2021-04-05
+936,1032,  Karan ,South,Tamil Nadu   , Bangalore  ,Laptop,,,203853,2018-08-03
+937,1186,  Priya*** ,South,Telangana   , Bangalore  ,Laptop,,,(997111),2018-02-22
+938,1148,  John ,South,Maharashtra    , Chennai,Laptop,5,,547273--,2020-02-21
+939,1183,  John    ,East,Gujarat    , Kochi   ,Watch,,,998335!!!,2023-03-01
+940,1041,  Neha ,East,Telangana  , Chennai   ,Headphones,,1434.81,(386528),2024-12-14
+941,1657,  Karan.. ,East,Karnataka   , Chennai,Headphones,,,801939--,2023-04-19
+942,1482,  Meena! ,West,Maharashtra  , Kochi   ,Bag,9,,826317,2023-09-17
+943,1090,  Meena! ,East,Kerala   , Chennai,Watch,,1083.07,(114398),2018-10-16
+944,1647,  Alex.. ,South,Gujarat   , Mumbai  ,Shoes,,1220.52,(370897),2024-09-23
+945,1550,  Karan    ,South,Karnataka    , Mumbai,Bag,,,283986!!!,2021-07-26
+946,1655,  Karan.. ,South,Tamil Nadu   , Hyderabad   ,Mobile,,,306334,2018-10-19
+947,1536,  Karan! ,West,Maharashtra    , Bangalore,Laptop,,1853.64,(055089),2024-10-20
+948,1450,  Alex*** ,East,Telangana  , Kochi   ,Watch,7,,(178991),2020-07-07
+949,1689,  David! ,North,Karnataka   , Pune   ,Shoes,,198.27,612367!!!,2023-10-07
+950,1634,  Karan.. ,North,Maharashtra  , Mumbai  ,Headphones,,981.48,050734--,2021-03-18
+951,1914,  Sara    ,East,Karnataka  , Hyderabad  ,Shoes,5,1054.04,324032,2022-07-11
+952,1114,  Karan ,North,Telangana    , Hyderabad,Shoes,,,906782!!!,2024-03-28
+953,1057,  Sara*** ,South,Telangana   , Kochi   ,Laptop,6,637.37,571996,2020-05-17
+954,1830,  Karan.. ,West,Tamil Nadu    , Pune   ,Laptop,3,,878555,2018-03-02
+955,1962,  Ravi.. ,West,Tamil Nadu   , Chennai  ,Headphones,,1767.75,660069--,2024-01-24
+956,1419,  Sara    ,East,Maharashtra   , Kochi  ,Laptop,8,,177827!!!,2022-10-11
+957,1107,  Karan! ,South,Telangana    , Hyderabad   ,Headphones,,228.77,(766324),2020-07-11
+958,1849,  David*** ,South,Kerala    , Hyderabad,Laptop,,,769456,2020-10-07
+959,1652,  Alex.. ,East,Tamil Nadu   , Mumbai,Mobile,,,664534!!!,2024-11-28
+960,1915,  Sara ,West,Karnataka   , Kochi,Shoes,5,1864.33,336517--,2024-12-17
+961,1750,  David! ,North,Tamil Nadu  , Pune   ,Mobile,,760.96,(307485),2023-11-13
+962,1638,  Neha*** ,North,Karnataka    , Mumbai  ,Headphones,,,463961--,2021-05-10
+963,1468,  David    ,North,Karnataka  , Bangalore,Bag,,,993051,2024-03-06
+964,1314,  Amit ,North,Kerala  , Kochi   ,Shoes,,,805774!!!,2021-05-09
+965,1083,  Alex.. ,South,Tamil Nadu   , Mumbai,Shoes,,,477406!!!,2023-05-14
+966,1530,  Amit ,East,Karnataka    , Bangalore  ,Bag,,,844295--,2018-06-08
+967,1890,  Priya ,West,Telangana    , Chennai  ,Bag,,,739438!!!,2019-02-02
+968,1441,  Ravi.. ,North,Gujarat  , Pune   ,Mobile,,,971077,2021-03-28
+969,1962,  Ravi! ,East,Telangana    , Mumbai  ,Shoes,,,948586--,2020-08-21
+970,1925,  Karan.. ,West,Maharashtra    , Bangalore   ,Headphones,,,346957!!!,2021-01-10
+971,1329,  Neha ,South,Karnataka    , Kochi  ,Bag,9,1786.8,(516754),2018-04-08
+972,1984,  Amit    ,South,Kerala    , Mumbai  ,Mobile,,,(611815),2018-06-06
+973,1999,  Alex! ,West,Kerala    , Bangalore   ,Bag,,,468511--,2019-02-07
+974,1741,  Meena.. ,North,Kerala   , Mumbai  ,Shoes,,,490209--,2023-10-17
+975,1207,  David.. ,West,Tamil Nadu    , Kochi  ,Watch,7,,(067528),2022-01-01
+976,1955,  Sara.. ,East,Gujarat  , Chennai,Laptop,2,1432.25,840935,2019-01-14
+977,1806,  John ,North,Tamil Nadu   , Pune,Shoes,,,736643!!!,2019-07-18
+978,1960,  Priya! ,East,Telangana   , Bangalore,Laptop,10,,106455!!!,2021-08-04
+979,1898,  Ravi ,East,Karnataka  , Chennai  ,Mobile,8,,235672,2019-08-23
+980,1439,  Sara! ,East,Telangana    , Kochi   ,Watch,5,130.77,928088!!!,2019-08-19
+981,1001,  John.. ,North,Gujarat   , Mumbai   ,Shoes,1,1162.07,255313,2021-11-18
+982,1616,  Ravi ,East,Gujarat    , Kochi  ,Shoes,,,454111,2024-07-19
+983,1790,  Priya    ,North,Telangana   , Bangalore  ,Laptop,9,190.25,918987!!!,2022-08-08
+984,1560,  Meena ,West,Karnataka    , Bangalore  ,Bag,6,332.56,512738--,2024-09-28
+985,1374,  Amit    ,East,Maharashtra   , Bangalore  ,Headphones,7,,469785,2021-12-13
+986,1407,  Priya ,West,Gujarat   , Hyderabad   ,Laptop,,350.41,747411!!!,2018-03-08
+987,1277,  Karan ,West,Karnataka    , Mumbai  ,Mobile,,,790690--,2020-06-28
+988,1673,  Meena! ,North,Tamil Nadu    , Pune  ,Bag,,,740420,2024-02-28
+989,1306,  Meena.. ,North,Tamil Nadu  , Hyderabad,Mobile,2,,727285,2020-02-18
+990,1752,  Neha ,East,Kerala   , Hyderabad   ,Mobile,,184.48,172079--,2020-12-14
+991,1171,  Karan*** ,North,Gujarat   , Mumbai   ,Watch,,,630878!!!,2019-11-10
+992,1157,  Meena ,North,Maharashtra   , Pune   ,Mobile,,,312820!!!,2018-03-22
+993,1546,  Sara    ,East,Maharashtra  , Hyderabad,Mobile,9,451.15,147560!!!,2023-04-15
+994,1330,  Priya    ,North,Tamil Nadu    , Bangalore   ,Mobile,,,876088--,2021-06-24
+995,1923,  David    ,South,Gujarat   , Hyderabad   ,Mobile,3,651.99,(368295),2020-05-19
+996,1809,  David! ,East,Kerala    , Kochi   ,Watch,,,978055!!!,2019-09-09
+997,1618,  Karan.. ,North,Gujarat    , Hyderabad  ,Laptop,1,,(299143),2023-10-01
+998,1223,  Alex! ,West,Kerala  , Pune,Watch,,,387536,2024-11-05
+999,1614,  Amit*** ,East,Telangana    , Hyderabad   ,Shoes,3,,(499279),2023-05-20
+1000,1332,  David.. ,West,Kerala    , Pune  ,Bag,,,970464!!!,2024-06-23
