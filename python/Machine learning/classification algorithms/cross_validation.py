@@ -39,10 +39,10 @@ rnd_search=RandomizedSearchCV(
     return_train_score=False #  choose test score stored or not 
 
 )
-rnd_search.fit(X_train, y_train)  
+rnd_search.fit(X_train, y_train)
 
 # print("Best parameters:", rnd_search.best_params_) # finds the one with the highest scoring (ROC AUC) eg: n_estimators': 300, 'max_depth': 20, 'bootstrap': True, 'class_weight': 'balanced'
-print("Best CV score (roc_auc):", rnd_search.best_score_) #Shows the highest ROC AUC value it achieved during K-fold cross-validation using the best parameters. eg:(roc_auc): 0.9234
+print("Best CV score (roc_auc):", rnd_search.best_score_)#Shows the highest ROC AUC value it achieved during K-fold cross-validation using the best parameters. eg:(roc_auc): 0.9234
 best_rf = rnd_search.best_estimator_
 y_pred = best_rf.predict(X_test)
 print("Test Accuracy:", accuracy_score(y_test, y_pred))

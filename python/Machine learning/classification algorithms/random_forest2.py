@@ -24,7 +24,10 @@ model=RandomForestClassifier(
     min_samples_split=50,
     n_estimators=100,
     max_features="sqrt",
-    class_weight="balanced"
+    class_weight="balanced",
+    bootstrap=True,
+    criterion="gini"
+   
 )
 
 model.fit(X_train,y_train)

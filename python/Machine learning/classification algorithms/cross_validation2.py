@@ -51,3 +51,6 @@ y_prob=best_rf.predict_proba(X_test)[:,1]
 print(accuracy_score(y_test,y_pred))
 print(roc_auc_score(y_test,y_prob))
 
+
+
+
